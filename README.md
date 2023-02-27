@@ -106,14 +106,14 @@
 
 ### 6、拓展大赛
 
-《开源软件通识》课程同时和今年的“OpenDigger 开源软件生态数据分析挖掘平台全球大赛”（与开放原子共建的形式）充分结合，课程作为大赛的标准配套培训课，供参赛选手进行学习；同时线下班的期末大作业也择优选取，作为大赛作品的推荐。本次大赛共一等奖 1 名，二等奖 4 名，三等奖 8 名，OpenRank 影响力奖 50 名，奖金池总共 50 万元。具体情况后续更新，敬请关注~
+《开源软件通识》课程同时和今年的“**OpenDigger 开源软件生态数据分析挖掘平台全球大赛**”（与开放原子共建的形式）充分结合，课程作为大赛的标准配套培训课，供参赛选手进行学习；同时线下班的期末大作业也择优选取，作为大赛作品的推荐。本次大赛共一等奖 1 名，二等奖 4 名，三等奖 8 名，OpenRank 影响力奖 50 名，奖金池总共 50 万元。具体情况后续更新，敬请关注~
 
 ### 7、课程参考教材
 
-- 《拥抱开源》：https://github.com/X-lab2017/HOSAS
-- 《给所有人的 GitHub 通识课》：https://www.amazon.com/GitHub-Dummies-Guthals/dp/1119572673
-- 《开放式协作》：https://github.com/X-lab2017/WIP-feedback
-- 《Accelerate DevOps》：https://www.amazon.com/Accelerate-DevOps-GitHub-software-performance/dp/1801813353
+- **《拥抱开源》**：https://github.com/X-lab2017/HOSAS
+- **《给所有人的 GitHub 通识课》**：https://www.amazon.com/GitHub-Dummies-Guthals/dp/1119572673
+- **《开放式协作》**：https://github.com/X-lab2017/WIP-feedback
+- **《Accelerate DevOps》**：https://www.amazon.com/Accelerate-DevOps-GitHub-software-performance/dp/1801813353
 
 <div align=center>
 <img src="https://user-images.githubusercontent.com/15010826/221451432-b4f7ba81-6cfb-4686-beaa-a46376fdbca6.jpg" width="550px">
