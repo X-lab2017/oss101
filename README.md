@@ -58,7 +58,7 @@
 详细的课程内容安排如下所示：
 
 <div align=center>
-<img src="https://user-images.githubusercontent.com/15010826/220533696-0f2ce154-fd54-4a5b-b2ff-12e3bfbb0ffa.png" width="750px">
+<img src="https://user-images.githubusercontent.com/15010826/229292912-d08a7f1b-7df5-4724-852a-02c97c7c7f92.png" width="750px">
 </div>
 
 ### 3、课程进程
