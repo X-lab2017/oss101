@@ -86,13 +86,13 @@ Be sensitive in choosing where you ask your question. You are likely to be ignor
 
 Hackers blow off questions that are inappropriately targeted in order to try to protect their communications channels from being drowned in irrelevance. You don't want this to happen to you.
 
-The first step, therefore, is to find the right forum. Again, Google and other Web-searching methods are your friend. Use them to find the project webpage most closely associated with the hardware or software giving you difficulties. Usually it will have links to a FAQ (Frequently Asked Questions) list, and to project mailing lists and their archives. These mailing lists are the final places to go for help, if your own efforts (including *reading* those FAQs you found) do not find you a solution. The project page may also describe a bug-reporting proce dure, or have a link to one; if so, follow it.
+The first step, therefore, is to find the right forum. Again, Google and other Web-searching methods are your friends. Use them to find the project webpage most closely associated with the hardware or software giving you difficulties. Usually it will have links to a FAQ (Frequently Asked Questions) list, and to project mailing lists and their archives. These mailing lists are the final places to go for help, if your own efforts (including *reading* those FAQs you found) do not find you a solution. The project page may also describe a bug-reporting proce dure, or have a link to one; if so, follow it.
 
 Shooting off an e-mail to a person or forum which you are not familiar with is risky at best. For example, do not assume that the author of an informative webpage wants to be your free consultant. Do not make optimistic guesses about whether your question will be welcome --- if you're unsure, send it elsewhere, or refrain from sending it at all.
 
 When selecting a Web forum, newsgroup or mailing list, don't trust the name by itself too far; look for a FAQ or charter to verify your question is on-topic. Read some of the back traffic before posting so you'll get a feel for how things are done there. In fact, it's a very good idea to do a keyword search for words relating to your problem on the newsgroup or mailing list archives before you post. It may find you an answer, and if not it will help you formulate a better question.
 
-Don't shotgun-blast all the available help channels at once, that's like yelling and irritates people. Step through them softly.
+Don't shotgun-blast all the available help channels at once, that's like yelling and irritating people. Step through them softly.
 
 Know what your topic is! One of the classic mistakes is asking questions about the Unix or Windows programming interface in a forum devoted to a language or library or tool portable across both. If you don't understand why this is a blunder, you'd be best off not asking any questions at all until you get it.
 
