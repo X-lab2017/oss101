@@ -114,7 +114,7 @@ Stack Exchange has grown to [over 100 sites](http://stackexchange.com/sites), b
 
 - Super User is for questions about general-purpose computing. If your question isn't about code or programs that you talk to only over a network connection, it probably goes here.
 
-  - Stack Overflow is for ques tions about programming.
+  - Stack Overflow is for questions about programming.
 
   - Server Fault is for questions about server and network administration.
 
