@@ -16,7 +16,7 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 
 ## Introduction
 
-In the world of [hackers](http://www.catb.org/~esr/faqs/hacker-howto.html), the kind of answers you get to your technical questions dpends as much on the way you ask the questions as on the difficulty of developing the answer. This guide will teach you how to ask questions in a way more likely to get you a satisfactory answer.
+In the world of [hackers](http://www.catb.org/~esr/faqs/hacker-howto.html), the kind of answers you get to your technical questions depend as much on the way you ask the questions as on the difficulty of developing the answer. This guide will teach you how to ask questions in a way more likely to get you a satisfactory answer.
 
 Now that use of open source has become widespread, you can often get as good answers from other, more experienced users as from hackers. This is a Good Thing; users tend to be just a little bit more tolerant of the kind of failures newbies often have. Still, treating experienced users like hackers in the ways we recommend here will generally be the most effective way to get useful answers out of them, too.
 
@@ -43,17 +43,17 @@ If you decide to come to us for help, you don't want to be one of the losers. Yo
 Before asking a technical question by e-mail, or in a newsgroup, or on a website chat board, do the following:
 
     1.  Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
-
+    
     2.  Try to find an answer by searching the Web.
-
+    
     3.  Try to find an answer by reading the manual.
-
+    
     4.  Try to find an answer by reading a FAQ.
-
+    
     5.  Try to find an answer by inspection or experimentation.
-
+    
     6.  Try to find an answer by asking a skilled friend.
-
+    
     7.  If you're a programmer, try to find an answer by reading the source code.
 
 When you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time. Better yet, display what you have *learned* from doing these things. We like answering questions for people who have demonstrated they can learn from the answers.
