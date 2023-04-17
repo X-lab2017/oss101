@@ -22,7 +22,7 @@ Now that use of open source has become widespread, you can often get as good ans
 
 The first thing to understand is that hackers actually like hard problems and good, thought-provoking questions about them. If we didn't, we wouldn't be here. If you give us an interesting question to chew on we'll be grateful to you; good questions are a stimulus and a gift. Good questions help us develop our understanding, and often reveal problems we might not have noticed or thought about otherwise. Among hackers, "Good question!" is a strong and sincere compliment.
 
-Despite this, hackers have a reaputation for meeting simple questions with what looks like hostility or arrogance. It sometimes looks like we're reflexively rude to newbies and the ignorant. But this isn't really true.
+Despite this, hackers have a reputation for meeting simple questions with what looks like hostility or arrogance. It sometimes looks like we're reflexively rude to newbies and the ignorant. But this isn't really true.
 
 What we are, unapologetically, is hostile to people who seem to be unwilling to think or to do their own homework before asking questions. Peple like that are time sinks --- they take without giving back, and they waste time we could have spent on another question more interesting and another person more worthy of an answer. We call people like this "losers" (and for historical reasons we sometimes spell it "lusers").
 
@@ -438,7 +438,7 @@ There have been hacker forums where, out of some misguided sense of hyper-courte
 
 Exaggeratedly "friendly" (in that feshion) or useful: Pick one.
 
-Remember: When that hacker tells you that you've screwed up, and (no matter how gruffly) tells you not to do it again, he's acting out of concern for (1) you and (2) his community. It would be much eaier for him to ignore you and filter you out of his life. If you can't manage to be grateful, at least have a little dignity, don't whine, and don't expect to be treated like a fragile doll just because you're a newcomer with a theatrically hypersensitive soul and delusions of entitlement.
+Remember: When that hacker tells you that you've screwed up, and (no matter how gruffly) tells you not to do it again, he's acting out of concern for (1) you and (2) his community. It would be much easier for him to ignore you and filter you out of his life. If you can't manage to be grateful, at least have a little dignity, don't whine, and don't expect to be treated like a fragile doll just because you're a newcomer with a theatrically hypersensitive soul and delusions of entitlement.
 
 Sometimes people will attack you personally, flame without an apparent reason, etc., even if you don't screw up (or have only screwed up in their imgination). In this case, complaining is the way to *really* screw up.
 
