@@ -43,17 +43,17 @@ If you decide to come to us for help, you don't want to be one of the losers. Yo
 Before asking a technical question by e-mail, or in a newsgroup, or on a website chat board, do the following:
 
     1.  Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
-
+    
     2.  Try to find an answer by searching the Web.
-
+    
     3.  Try to find an answer by reading the manual.
-
+    
     4.  Try to find an answer by reading a FAQ.
-
+    
     5.  Try to find an answer by inspection or experimentation.
-
+    
     6.  Try to find an answer by asking a skilled friend.
-
+    
     7.  If you're a programmer, try to find an answer by reading the source code.
 
 When you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time. Better yet, display what you have *learned* from doing these things. We like answering questions for people who have demonstrated they can learn from the answers.
@@ -218,7 +218,7 @@ If you make your question artificially hard to read, it is more likely to be pas
 
   - Don't send e-mail in which entire paragraphs are single multiply-wrapped lines. (This makes it too difficult to reply to just part of the message.) Assume that your respondents will be reading mail on 80-character-wide text displays and set your line wrap accordingly, to something less than 80.
 
-  - However, do *not* wrap data (such as log file dumps or session transcripts) at any fixed column width. Data should be included as-is, so respondents can have confidence that they are seeing what yousaw.
+  - However, do *not* wrap data (such as log file dumps or session transcripts) at any fixed column width. Data should be included as-is, so respondents can have confidence that they are seeing what you saw.
 
   - Don't send MIME Quoted-Printable encoding to an English-language forum. This encoding can be necessary when you're posting in a language ASCII doesn't cover, but many e-mail agents don't supportit. When they break, all those =20 glyphs scattered through the text are ugly and distracting --- or may actively sabotage the semantics of your text.
 
@@ -226,7 +226,7 @@ If you make your question artificially hard to read, it is more likely to be pas
 
   - If you're sending e-mail from a Windows machine, turn off Microsoft's problematic "Smart Quotes" feature (From Tools > AutoCorrect Options, clear the smart quotes checkbox under AutoFormat As You Type.). This is so you'll avoid sprinkling garbage characters through your mail.
 
-  - In Web forums, do not abuse "smiley" and "HTML" features (when they are present). A smiley or two is usually OK, but colored fancy text tends to make people think you are lame. Seriously overusing smileys and coloor and fonts will make you come off like a giggly teenage girl, which is not generally a good idea unless you are more interested in sex than answers.
+  - In Web forums, do not abuse "smiley" and "HTML" features (when they are present). A smiley or two is usually OK, but colored fancy text tends to make people think you are lame. Seriously overusing smileys and color and fonts will make you come off like a giggly teenage girl, which is not generally a good idea unless you are more interested in sex than answers.
 
 If you're using a graphical-user-interface mail client such as Netscape Messenger, MS Outlook, or their ilk, beware that it may violate these rules when used with its default settings. Most such clients have a menu-based "View Source" command. Use thison something in your sent-mail folder, verifying sending of plain text without unnecessary attached crud.
 
