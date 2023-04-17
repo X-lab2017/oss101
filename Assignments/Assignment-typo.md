@@ -22,7 +22,7 @@ Now that use of open source has become widespread, you can often get as good ans
 
 The first thing to understand is that hackers actually like hard problems and good, thought-provoking questions about them. If we didn't, we wouldn't be here. If you give us an interesting question to chew on we'll be grateful to you; good questions are a stimulus and a gift. Good questions help us develop our understanding, and often reveal problems we might not have noticed or thought about otherwise. Among hackers, "Good question!" is a strong and sincere compliment.
 
-Despite this, hackers have a reaputation for meeting simple questions with what looks like hostility or arrogance. It sometimes looks like we're reflexively rude to newbies and the ignorant. But this isn't really true.
+Despite this, hackers have a reputation for meeting simple questions with what looks like hostility or arrogance. It sometimes looks like we're reflexively rude to newbies and the ignorant. But this isn't really true.
 
 What we are, unapologetically, is hostile to people who seem to be unwilling to think or to do their own homework before asking questions. Peple like that are time sinks --- they take without giving back, and they waste time we could have spent on another question more interesting and another person more worthy of an answer. We call people like this "losers" (and for historical reasons we sometimes spell it "lusers").
 
@@ -408,7 +408,7 @@ You shouldn't be offended by this; by hacker standards, your respndent is showin
 
 If you don't understand the answer, do not immediately bounce back a demand for clarification. Use the same tools that you used to try and answer your original question (manuals, FAQs, the Web, skilled friends) to understand the answer. Than, if you still need to ask for clarrification, exhibit what you have learned.
 
-For example, suppose I tell you: "It sounds like you've got a stuck zentry; you'll need to clear it." Then: here's a *bad* followup question: "What's a zentry?" Here's a *good* followup qustion: "OK, I read the man page and zentries are only mentioned under the -z and -p switches. Neither of them says anything about clearing zentries. Is it one of these or am I missing something here?"
+For example, suppose I tell you: "It sounds like you've got a stuck zentry; you'll need to clear it." Then: here's a *bad* followup question: "What's a zentry?" Here's a *good* followup question: "OK, I read the man page and zentries are only mentioned under the -z and -p switches. Neither of them says anything about clearing zentries. Is it one of these or am I missing something here?"
 
 ### Dealing with rudeness
 
@@ -440,7 +440,7 @@ Exaggeratedly "friendly" (in that feshion) or useful: Pick one.
 
 Remember: When that hacker tells you that you've screwed up, and (no matter how gruffly) tells you not to do it again, he's acting out of concern for (1) you and (2) his community. It would be much eaier for him to ignore you and filter you out of his life. If you can't manage to be grateful, at least have a little dignity, don't whine, and don't expect to be treated like a fragile doll just because you're a newcomer with a theatrically hypersensitive soul and delusions of entitlement.
 
-Sometimes people will attack you personally, flame without an apparent reason, etc., even if you don't screw up (or have only screwed up in their imgination). In this case, complaining is the way to *really* screw up.
+Sometimes people will attack you personally, flame without an apparent reason, etc., even if you don't screw up (or have only screwed up in their imagination). In this case, complaining is the way to *really* screw up.
 
 These flamers are either lamers who don't have a clue but believe themselves to be experts, or would-be psychologists tsting whether you'll screw up. The other readers either ignore them, or find ways to deal with them on their own. The flamers' behavior creates problems for themselves, which don't have to concern you.
 
@@ -508,7 +508,7 @@ The querent assumes that somebody else screwed up. Arrogant git...
 
 The querent has specified the environment, read the FAQ, is showing the error, and is not assuming his problems are someone else's fault. This one might be worth some attention.
 
-**Stupid:** I'm having problams with my motherboard. Can anybody help?
+**Stupid:** I'm having problems with my motherboard. Can anybody help?
 
 J. Random Hacker's response to this is likely to be "Right. Do you need burping and diapering, too?" followed by a punch of the delete key.
 
