@@ -272,7 +272,7 @@ Some people who get that they shouldn't behave rudely or arrogantly, demanding a
 
 Don't waste your time, or ours, on crude primate politics. Instead, present the background facts and your question as clearly as you can. That is a better way to position yourself than by grovelling.
 
-Sometimes Web forums have sep arate places for newbie questions. If you feel you do have a newbie question, just go there. But don't grovel there either.
+Sometimes Web forums have separate places for newbie questions. If you feel you do have a newbie question, just go there. But don't grovel there either.
 
 ### Describe the problem's symptoms, not your guesses
 
