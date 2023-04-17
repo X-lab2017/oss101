@@ -326,7 +326,7 @@ Open-ended questions tend to be perceived as open-ended time sinks. Those people
 
 You are more likely to get a useful response if you are explicit about what you want respondents to do (provide pointers, send code, check your patch, whatever). This will focus their effort and implicitly put an upper bound on the time and energy a respondent must allocate to helping you. This is good.
 
-To understand the world the experts live in, think of expertise as an abundant resource and time to respond as a scarce one. The less of a time commitment you implicitly ask for, the more likely you are to get an answer from someone really geod and really busy.
+To understand the world the experts live in, think of expertise as an abundant resource and time to respond as a scarce one. The less of a time commitment you implicitly ask for, the more likely you are to get an answer from someone really good and really busy.
 
 So it is useful to frame your question to minimize the time commitment required for an expert to field it --- but this is often not the same thing as simplifying the question. Thus, for example, "Would you give me a pointer to a good explanation of X?" is usually a smarter question than "Would you explain X, please?". If you have some malfunctioning code, itis usually smarter to ask for someone to explain what's wrong with it than it is to ask someone to fix it.
 
