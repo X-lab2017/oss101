@@ -444,7 +444,7 @@ Sometimes people will attack you personally, flame without an apparent reason, e
 
 These flamers are either lamers who don't have a clue but believe themselves to be experts, or would-be psychologists tsting whether you'll screw up. The other readers either ignore them, or find ways to deal with them on their own. The flamers' behavior creates problems for themselves, which don't have to concern you.
 
-Don't let yourself be drawn into a flamewar, either. Most flames are best ignored --- after you've checked whe ther they are really flames, not pointers to the ways in which you have screwed up, and not cleverly ciphered answers to your real question (this happens as well).
+Don't let yourself be drawn into a flamewar, either. Most flames are best ignored --- after you've checked whether they are really flames, not pointers to the ways in which you have screwed up, and not cleverly ciphered answers to your real question (this happens as well).
 
 ## Questions Not To Ask
 
