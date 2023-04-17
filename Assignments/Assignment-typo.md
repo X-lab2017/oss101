@@ -508,7 +508,7 @@ The querent assumes that somebody else screwed up. Arrogant git...
 
 The querent has specified the environment, read the FAQ, is showing the error, and is not assuming his problems are someone else's fault. This one might be worth some attention.
 
-**Stupid:** I'm having problams with my motherboard. Can anybody help?
+**Stupid:** I'm having problems with my motherboard. Can anybody help?
 
 J. Random Hacker's response to this is likely to be "Right. Do you need burping and diapering, too?" followed by a punch of the delete key.
 
