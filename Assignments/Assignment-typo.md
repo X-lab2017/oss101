@@ -226,7 +226,7 @@ If you make your question artificially hard to read, it is more likely to be pas
 
   - If you're sending e-mail from a Windows machine, turn off Microsoft's problematic "Smart Quotes" feature (From Tools > AutoCorrect Options, clear the smart quotes checkbox under AutoFormat As You Type.). This is so you'll avoid sprinkling garbage characters through your mail.
 
-  - In Web forums, do not abuse "smiley" and "HTML" features (when they are present). A smiley or two is usually OK, but colored fancy text tends to make people think you are lame. Seriously overusing smileys and coloor and fonts will make you come off like a giggly teenage girl, which is not generally a good idea unless you are more interested in sex than answers.
+  - In Web forums, do not abuse "smiley" and "HTML" features (when they are present). A smiley or two is usually OK, but colored fancy text tends to make people think you are lame. Seriously overusing smileys and color and fonts will make you come off like a giggly teenage girl, which is not generally a good idea unless you are more interested in sex than answers.
 
 If you're using a graphical-user-interface mail client such as Netscape Messenger, MS Outlook, or their ilk, beware that it may violate these rules when used with its default settings. Most such clients have a menu-based "View Source" command. Use thison something in your sent-mail folder, verifying sending of plain text without unnecessary attached crud.
 
