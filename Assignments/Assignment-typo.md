@@ -556,7 +556,7 @@ While muttering RTFM is sometimes justified when rezplying to someone who is jus
 
 *If you're going to answer the question at all, give good value.* Don't suggest kludgy workarounds when somebody is using the wrong tool or approach. Suggest good tools. Reframe the question.
 
-Answer the actual question! If the queraent has been so thorough as to do his or her research and has included in the query that X, Y, Z, A, B, and C have already been tried without good result, it is supremely unhelpful to respond with "Try A or B," or with a link to something that only says, "Try X, Y, Z, A, B, or C.".
+Answer the actual question! If the querent has been so thorough as to do his or her research and has included in the query that X, Y, Z, A, B, and C have already been tried without good result, it is supremely unhelpful to respond with "Try A or B," or with a link to something that only says, "Try X, Y, Z, A, B, or C.".
 
 *Help your community learn from the question.* When you field a good question, ask yourself "How would the relevant documentation or FAQ have to change so that nobody has to answer this again?" Then send a patch to the document maintainer.
 
