@@ -432,7 +432,7 @@ When this happens, the worst thing you can do is whine about the experience, cla
 
 Get over it. It's normal. In fact, it's healthy and appropriate.
 
-Community standards do not maintain themselves: They're maintained by people actively applying them, visibly, *in public*. Don't whine that all criticism should have been conveyed via private e-mail: That's not how it works. Nor is it useful to insist you've been personally insulted when someone comments that one of your clams was wrong, or that his views differ. Those are loser attitudes.
+Community standards do not maintain themselves: They're maintained by people actively applying them, visibly, *in public*. Don't whine that all criticism should have been conveyed via private e-mail: That's not how it works. Nor is it useful to insist you've been personally insulted when someone comments that one of your claims was wrong, or that his views differ. Those are loser attitudes.
 
 There have been hacker forums where, out of some misguided sense of hyper-courtesy, participants are banned from posting any fault-finding with another's posts, and tld "Don't say anything if you're unwilling to help the user." The resulting departure of clueful participants to elsewhere causes them to descend into meaningless babble and become useless as technical forums.
 
