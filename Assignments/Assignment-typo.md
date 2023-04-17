@@ -359,7 +359,7 @@ That's your problem, not ours. Claiming urgency is very likely to be counter-pro
 
 There is one semi-exception. It can be worth mentioning if you're using the program in some high-profile place, one tht the hackers will get excited about; in such a case, if you're under time pressure, and you say so politely, people may get interested enough to answer faster.
 
-This is a very risky thing to do, however, because the hackers' metric for what is exciting probably differs from yours. Posting from the International Space Station would qualify, for example, but posting on behalf of a feel-good charitable or political cause would almost certainly not. In fact, posting "Urgent: Help me save the fuzzy baby seals!" will reli ably get you shunned or flamed even by hackers who think fuzzy baby seals are important.
+This is a very risky thing to do, however, because the hackers' metric for what is exciting probably differs from yours. Posting from the International Space Station would qualify, for example, but posting on behalf of a feel-good charitable or political cause would almost certainly not. In fact, posting "Urgent: Help me save the fuzzy baby seals!" will reliably get you shunned or flamed even by hackers who think fuzzy baby seals are important.
 
 If you find this mysterious, re-read the rest of this how-to repeatedly until you understand it before posting anything at all.
 
