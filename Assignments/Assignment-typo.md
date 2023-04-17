@@ -290,7 +290,7 @@ Since the preceding point seems to be a tough one for many people to grasp, here
 
 ### Describe your problem's symptoms in chronological order
 
-The clues most useful in figguring out something that went wrong often lie in the events immediately prior. So, your account should describe precisely what you did, and what the machine and software did, leading up to the blowup. In the case of command-line processes, having a session log (e.g., using the script utility) and quoting the relevant twenty or so lines is very useful.
+The clues most useful in figuring out something that went wrong often lie in the events immediately prior. So, your account should describe precisely what you did, and what the machine and software did, leading up to the blowup. In the case of command-line processes, having a session log (e.g., using the script utility) and quoting the relevant twenty or so lines is very useful.
 
 If the program that blew up on you has diagnostic options (such as -v for verbose), try to select options that will add useful debugging information to the transcript. Remember that more is not necessarily better; try to choose a debug level that will inform rather than drowning the reader in junk.
 
@@ -304,7 +304,7 @@ Often, people who need technical help have a high-level goal in mind and get stu
 
 **Stupid:**
 
-How do I get the color-picker on the FooDraw program to takea hexadecimal RGB value?
+How do I get the color-picker on the FooDraw program to take a hexadecimal RGB value?
 
 **Smart:**
 
