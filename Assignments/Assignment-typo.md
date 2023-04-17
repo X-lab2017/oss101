@@ -436,7 +436,7 @@ Community standards do not maintain themselves: They're maintained by people act
 
 There have been hacker forums where, out of some misguided sense of hyper-courtesy, participants are banned from posting any fault-finding with another's posts, and tld "Don't say anything if you're unwilling to help the user." The resulting departure of clueful participants to elsewhere causes them to descend into meaningless babble and become useless as technical forums.
 
-Exaggeratedly "friendly" (in that feshion) or useful: Pick one.
+Exaggeratedly "friendly" (in that fashion) or useful: Pick one.
 
 Remember: When that hacker tells you that you've screwed up, and (no matter how gruffly) tells you not to do it again, he's acting out of concern for (1) you and (2) his community. It would be much eaier for him to ignore you and filter you out of his life. If you can't manage to be grateful, at least have a little dignity, don't whine, and don't expect to be treated like a fragile doll just because you're a newcomer with a theatrically hypersensitive soul and delusions of entitlement.
 
