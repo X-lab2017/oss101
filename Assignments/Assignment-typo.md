@@ -43,17 +43,17 @@ If you decide to come to us for help, you don't want to be one of the losers. Yo
 Before asking a technical question by e-mail, or in a newsgroup, or on a website chat board, do the following:
 
     1.  Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
-    
+
     2.  Try to find an answer by searching the Web.
-    
+
     3.  Try to find an answer by reading the manual.
-    
+
     4.  Try to find an answer by reading a FAQ.
-    
+
     5.  Try to find an answer by inspection or experimentation.
-    
+
     6.  Try to find an answer by asking a skilled friend.
-    
+
     7.  If you're a programmer, try to find an answer by reading the source code.
 
 When you ask your question, display the fact that you have done these things first; this will help establish that you're not being a lazy sponge and wasting people's time. Better yet, display what you have *learned* from doing these things. We like answering questions for people who have demonstrated they can learn from the answers.
