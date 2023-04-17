@@ -376,7 +376,7 @@ However, if you've got your technical ducks in a row, politeness does increase y
 
 Send a note after the problem has been solved to all who helped you; let them know how it came out and thank them again for their help. If the problem attracted general interest in a mailing list or newsgroup, it's appropriate to post the followup there.
 
-Optimally, the reply should be to the thread started by the original question posting, and should have 'FIXED', 'RESOLVED' or an equally obvious tag in the subject line. On mailing lists with fast turnaround, a potential respondent who sees a thread about "Problem X" ending with "Problem X - FIXED" knows not to waste his/her time even reaading the thread (unless (s)he personally finds Problem X interesting) and can therefore use that time solving a different problem.
+Optimally, the reply should be to the thread started by the original question posting, and should have 'FIXED', 'RESOLVED' or an equally obvious tag in the subject line. On mailing lists with fast turnaround, a potential respondent who sees a thread about "Problem X" ending with "Problem X - FIXED" knows not to waste his/her time even reading the thread (unless (s)he personally finds Problem X interesting) and can therefore use that time solving a different problem.
 
 Your followup doesn't have to be long and involved; a simple "Howdy --- it was a failed network cable! Thanks, everyone. - Bill" would be better than nothing. In fact, a short and sweet summary is better than a long dissertation unless the solution has real technical depth. Say what action solved the problem, but you need not replay the whole troubleshooting sequence.
 
