@@ -304,7 +304,7 @@ Often, people who need technical help have a high-level goal in mind and get stu
 
 **Stupid:**
 
-How do I get the color-picker on the FooDraw program to takea hexadecimal RGB value?
+How do I get the color-picker on the FooDraw program to take a hexadecimal RGB value?
 
 **Smart:**
 
