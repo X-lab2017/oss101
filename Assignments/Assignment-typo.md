@@ -308,7 +308,7 @@ How do I get the color-picker on the FooDraw program to takea hexadecimal RGB va
 
 **Smart:**
 
-I'm trying to replace the color table on an imge with values of my choosing. Right now the only way I can see to do this is by editing each table slot, but I can't get FooDraw's color picker to take a hexadecimal RGB value.
+I'm trying to replace the color table on an image with values of my choosing. Right now the only way I can see to do this is by editing each table slot, but I can't get FooDraw's color picker to take a hexadecimal RGB value.
 
 The second version of the question is smart. It allows an answer that suggests a tool better suited to the task.
 
