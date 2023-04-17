@@ -546,7 +546,7 @@ For popular software like Linux, there are at least 10,000 users per developer. 
 
 *Reply to a first offender off-line.* There is no need of public humiliationfor someone who may have made an honest mistake. A real newbie may not know how to search archives or where the FAQ is stored or posted.
 
-*If you don't know for sare, say so!* A wrong but authoritative-sounding answer is worse than none at all. Don't point anyone down a wrong path simply because it's fun to sound like an expert. Be humble and honest; set a good example for both the querent and your peers.
+*If you don't know for sure, say so!* A wrong but authoritative-sounding answer is worse than none at all. Don't point anyone down a wrong path simply because it's fun to sound like an expert. Be humble and honest; set a good example for both the querent and your peers.
 
 *If you can't help, don't hinder.* Don't make jokes about procedures that could trash the user's setup --- the poor sap might interpret these as instructions.
 
