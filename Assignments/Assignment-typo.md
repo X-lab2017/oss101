@@ -8,6 +8,7 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 
 本文档包含的 typo 类型大约 65 处：
 
+
 - Skip letter 20
 - Extra letter 10
 - Skip spaces 15
