@@ -246,7 +246,7 @@ If you're using a graphical-user-interface mail client such as Netscape Messenge
 
 Do the best you can to anticipate the questions a hacker will ask, and answer them in advance in your request for help.
 
-Giving hackers the ability to reproduce the problem in a controlled environment is espe cially important if you are reporting something you think is a bug in code. When you do this, your odds of getting a useful answer and the speed with which you are likely to get that answer both improve tremendously.
+Giving hackers the ability to reproduce the problem in a controlled environment is especially important if you are reporting something you think is a bug in code. When you do this, your odds of getting a useful answer and the speed with which you are likely to get that answer both improve tremendously.
 
 Simon Tatham has written an excellent essay entitled [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html). I strongly recommend that you read it.
 
