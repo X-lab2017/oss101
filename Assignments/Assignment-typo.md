@@ -356,7 +356,7 @@ In general, asking yes-or-no questions is a good thing to avoid unless you want 
 
 That's your problem, not ours. Claiming urgency is very likely to be counter-productive: most hackers will simply delete such messages as rude and selfish attempts to elicit immediate and special attention. Furthermore, the word 'Urgent' (and other similar attmpts to grab attention in the subject line) often triggers spam filters - your intended recipients might never see it at all!
 
-There is one semi-exception. It can be worth mentioning if you're using the program in some high-profile place, one tht the hackers will get excited about; in such a case, if you're under time pressure, and you say so politely, people may get interested enough to answer faster.
+There is one semi-exception. It can be worth mentioning if you're using the program in some high-profile place, one that the hackers will get excited about; in such a case, if you're under time pressure, and you say so politely, people may get interested enough to answer faster.
 
 This is a very risky thing to do, however, because the hackers' metric for what is exciting probably differs from yours. Posting from the International Space Station would qualify, for example, but posting on behalf of a feel-good charitable or political cause would almost certainly not. In fact, posting "Urgent: Help me save the fuzzy baby seals!" will reli ably get you shunned or flamed even by hackers who think fuzzy baby seals are important.
 
