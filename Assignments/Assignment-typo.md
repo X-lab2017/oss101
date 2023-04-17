@@ -374,7 +374,7 @@ However, if you've got your technical ducks in a row, politeness does increase y
 
 ### Follow up with a brief note on the solution
 
-Send a note after the problem has been solved to all who helped you; let them know how it came out and thank them again for thair help. If the problem attracted general interest in a mailing list or newsgroup, it's appropriate to post the followup there.
+Send a note after the problem has been solved to all who helped you; let them know how it came out and thank them again for their help. If the problem attracted general interest in a mailing list or newsgroup, it's appropriate to post the followup there.
 
 Optimally, the reply should be to the thread started by the original question posting, and should have 'FIXED', 'RESOLVED' or an equally obvious tag in the subject line. On mailing lists with fast turnaround, a potential respondent who sees a thread about "Problem X" ending with "Problem X - FIXED" knows not to waste his/her time even reaading the thread (unless (s)he personally finds Problem X interesting) and can therefore use that time solving a different problem.
 
