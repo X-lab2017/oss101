@@ -18,7 +18,7 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 
 In the world of [hackers](http://www.catb.org/~esr/faqs/hacker-howto.html), the kind of answers you get to your technical questions dpends as much on the way you ask the questions as on the difficulty of developing the answer. This guide will teach you how to ask questions in a way more likely to get you a satisfactory answer.
 
-Now that use of open source has become widespread, you can often get as good answers from other, more experienced users as from hackers. This is a Good Thing; users tend to be just a little bit more tolerant of the kind of failures newbies often have. Still, treating experienced users like hackers in the ways we recommend here will generally be the most effective way to get useful answers out of them, too.
+Now that use of open source has become widespread, you can often get as good answers from other, more experienced users as from hackers. This is a good thing; users tend to be just a little bit more tolerant of the kind of failures newbies often have. Still, treating experienced users like hackers in the ways we recommend here will generally be the most effective way to get useful answers out of them, too.
 
 The first thing to understand is that hackers actually like hard problems and good, thought-provoking questions about them. If we didn't, we wouldn't be here. If you give us an interesting question to chew on we'll be grateful to you; good questions are a stimulus and a gift. Good questions help us develop our understanding, and often reveal problems we might not have noticed or thought about otherwise. Among hackers, "Good question!" is a strong and sincere compliment.
 
@@ -544,7 +544,7 @@ For popular software like Linux, there are at least 10,000 users per developer. 
 
 *Be gentle.* Problem-related stress can make people seem rude or stupid even when they're not.
 
-*Reply to a first offender off-line.* There is no need of public humiliationfor someone who may have made an honest mistake. A real newbie may not know how to search archives or where the FAQ is stored or posted.
+*Reply to a first offender off-line.* There is no need of public humiliation for someone who may have made an honest mistake. A real newbie may not know how to search archives or where the FAQ is stored or posted.
 
 *If you don't know for sare, say so!* A wrong but authoritative-sounding answer is worse than none at all. Don't point anyone down a wrong path simply because it's fun to sound like an expert. Be humble and honest; set a good example for both the querent and your peers.
 
