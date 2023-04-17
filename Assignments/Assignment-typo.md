@@ -552,7 +552,7 @@ For popular software like Linux, there are at least 10,000 users per developer. 
 
 *Ask probing questions to elicit more details.* If you're good at this, the querent will learn something --- and so might you. Try to turn the bad question into a good one; remember we were all newbies once.
 
-While muttering RTFM is sometimes justified when rezplying to someone who is just a lazy slob, a pointer to documentation (even if it's just a suggestion to google for a key phrase) is better.
+While muttering RTFM is sometimes justified when replying to someone who is just a lazy slob, a pointer to documentation (even if it's just a suggestion to google for a key phrase) is better.
 
 *If you're going to answer the question at all, give good value.* Don't suggest kludgy workarounds when somebody is using the wrong tool or approach. Suggest good tools. Reframe the question.
 
