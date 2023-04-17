@@ -98,7 +98,7 @@ Know what your topic is! One of the classic mistakes is asking questions about t
 
 In general, questions to a well-selected public forum are more likely to get useful answers than equivalent questions to a private one. There are multiple reasons for this. One is simply the size of the pool of potential respondents. Another is the size of the audience; hackers would rather answer questions that educate many people than questions serving only a few.
 
-Understandably, skilled hackers and authors of popular software are already receiving more than their fair share of mis-targeted mess ages. By adding to the flood, you could in extreme cases even be the straw that bre aks the camel's back --- quite a few times, contributors to popular projects have withdrawn their support because collateral damage in the form of useless e-mail traffic to their personal accounts became unbearable.
+Understandably, skilled hackers and authors of popular software are already receiving more than their fair share of mis-targeted messages. By adding to the flood, you could in extreme cases even be the straw that bre aks the camel's back --- quite a few times, contributors to popular projects have withdrawn their support because collateral damage in the form of useless e-mail traffic to their personal accounts became unbearable.
 
 ### Stack Overflow
 
