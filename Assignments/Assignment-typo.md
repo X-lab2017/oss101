@@ -342,7 +342,7 @@ If you simply want a code review, say as much up front, and be sure to mention w
 
 ### Don't post homework questions
 
-Hackers are good at spotting homework quetions; most of us have done them ourselves. Those questions are for *you* to work out, so that you will learn from the experience. It is OK to ask for hints, but not for entire solutions.
+Hackers are good at spotting homework questions; most of us have done them ourselves. Those questions are for *you* to work out, so that you will learn from the experience. It is OK to ask for hints, but not for entire solutions.
 
 If you suspect you have been passed a homework question, but can't solve it anyway, try asking in a user group forum or (as a last resort) in a "user" list/forum of a project. While the hackers *will* spot it, some of the advanced users may at least give you a hint.
 
