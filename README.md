@@ -49,7 +49,7 @@
 
 每个部分的课程包括五讲的内容（每周一讲），每讲由不同类型的学习资源所支撑，每一讲（每周）大约需要花费 3 ~ 6 个小时的学习与实践时间。
 
-- 试一试：（Trying to Answer）：课前课后问答
+- 试一试（Trying to Answer）：课前课后问答
 - 看一看（Watching Lectures）：在线视频观看
 - 读一读（Extended Reading）：扩展阅读分析
 - 做一做（Learning by Doing）：动手实验/实践
