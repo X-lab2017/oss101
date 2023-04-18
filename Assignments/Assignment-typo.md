@@ -1,6 +1,6 @@
 # How To Ask Questions The Smart Way
 
-Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
+Copyright © 2001, 2006, 2014 Eric S. Raymond, Rick Moen
 
 本指南英文版版权为 Eric S. Raymond, Rick Moen 所有。
 
