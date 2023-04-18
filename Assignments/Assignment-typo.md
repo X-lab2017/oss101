@@ -236,7 +236,7 @@ If you're using a graphical-user-interface mail client such as Netscape Messenge
 
   - Describe the environment in which it occurs (machine, OS, application, whatever). Provide your vendor's distribution and release level (e.g.: "Fedora Core 7", "Slackware 9.1", etc.).
 
-  - Describe the research you did to try and understand the prgoblem before you asked the question.
+  - Describe the research you did to try and understand the problem before you asked the question.
 
   - Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
 
