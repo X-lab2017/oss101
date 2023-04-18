@@ -192,7 +192,7 @@ We've found by experience that people who are careless and sloppy writers are us
 
 So expressing your question clearly and well is important. If you can't be bothered to do that, we can't be bothered to pay attention. Spend the extra effort to polish your language. It doesn't have to be stiff or formal --- in fact, hacker culture values informal, slangy and humorous language used with precision. But it has to *be* precise; there has to be some indication that you're thinking and paying attention.
 
-Spell, punctuate, and capitalize correctly. Don't confuse "its" with "it's", "loose" with "lose", or "discrete" with "discreet". Don't TYPE IN ALL CAPS; this is read as shouting and considered rude. (All-smalls is only slightly less annhoying, as it's difficult to read. Alan Cox can get away with it, but you can't.)
+Spell, punctuate, and capitalize correctly. Don't confuse "its" with "it's", "loose" with "lose", or "discrete" with "discreet". Don't TYPE IN ALL CAPS; thisis read as shouting and considered rude. (All-smalls is only slightly less annhoying, as it's difficult to read. Alan Cox can get away with it, but you can't.)
 
 More generally, if you write like a semi-literate boob you will very likely be ignored. So don't use instant-messaging shortcuts. Spelling "you" as "u" makes you look like a semi-literate boob to save two entire keystrokes. Worse: writing like a l33t script kiddie hax0r is the absolute kiss of death and guarantaes you will receive nothing but stony silence (or, at best, a heaping helping of scorn and sarcasm) in return.
 
@@ -236,7 +236,7 @@ If you're using a graphical-user-interface mail client such as Netscape Messenge
 
   - Describe the environment in which it occurs (machine, OS, application, whatever). Provide your vendor's distribution and release level (e.g.: "Fedora Core 7", "Slackware 9.1", etc.).
 
-  - Describe the research you did to try and understand the problem before you asked the question.
+  - Describe the research you did to try and understand the prgoblem before you asked the question.
 
   - Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
 
@@ -384,7 +384,7 @@ For problems with some depth, it is appropriate to post a summary of the trouble
 
 Besides being courteous and informative, this sort of followup will help others searching the archive of the mailing-list/newsgroup/forum to know exactly which solution helped you and thus may also help them.
 
-Last, and not least, this sort of followup helps everybody who assisted feel a satisfying sense of closure about the problem. If you are not a techie or hacker yourself, trust us that this feeling is very important to the gurus and experts you tapped for help. Problem narratives that trail off into unresolved nothingness are frustrating things; hackers itch to see them resolved. The goodwill that scratching that itch earns you will bevery, very helpful to you next time you need to pose a question.
+Last, and not least, this sort of followup helps everybody who assisted feel a satisfying sense of closure about the problem. If you are not a techie or hacker yourself, trust us that this feeling is very important to the gurus and experts you tapped for help. Problem narratives that trail off into unresolved nothingness are frustrating things; hackers itch to see them resoled. The goodwill that scratching that itch earns you will bevery, very helpful to you next time you need to pose a question.
 
 Consider how you might be able to prevent others from having the same problem in the future. Ask yourself if a documentation or FAQ patch would help, and if the answer is yes send that patch to the maintainer.
 
