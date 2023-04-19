@@ -354,7 +354,7 @@ In general, asking yes-or-no questions is a good thing to avoid unless you want 
 
 ### Don't flag your question as "Urgent", even if it is for you
 
-That's your problem, not ours. Claiming urgency is very likely to be counter-productive: most hackers will simply delete such messages as rude and selfish attempts to elicit immediate and special attention. Furthermore, the word 'Urgent' (and other similar attmpts to grab attention in the subject line) often triggers spam filters - your intended recipients might never see it at all!
+That's your problem, not ours. Claiming urgency is very likely to be counter-productive: most hackers will simply delete such messages as rude and selfish attempts to elicit immediate and special attention. Furthermore, the word 'Urgent' (and other similar attempts to grab attention in the subject line) often triggers spam filters - your intended recipients might never see it at all!
 
 There is one semi-exception. It can be worth mentioning if you're using the program in some high-profile place, one tht the hackers will get excited about; in such a case, if you're under time pressure, and you say so politely, people may get interested enough to answer faster.
 
@@ -374,9 +374,9 @@ However, if you've got your technical ducks in a row, politeness does increase y
 
 ### Follow up with a brief note on the solution
 
-Send a note after the problem has been solved to all who helped you; let them know how it came out and thank them again for thair help. If the problem attracted general interest in a mailing list or newsgroup, it's appropriate to post the followup there.
+Send a note after the problem has been solved to all who helped you; let them know how it came out and thank them again for their help. If the problem attracted general interest in a mailing list or newsgroup, it's appropriate to post the followup there.
 
-Optimally, the reply should be to the thread started by the original question posting, and should have 'FIXED', 'RESOLVED' or an equally obvious tag in the subject line. On mailing lists with fast turnaround, a potential respondent who sees a thread about "Problem X" ending with "Problem X - FIXED" knows not to waste his/her time even reaading the thread (unless (s)he personally finds Problem X interesting) and can therefore use that time solving a different problem.
+Optimally, the reply should be to the thread started by the original question posting, and should have 'FIXED', 'RESOLVED' or an equally obvious tag in the subject line. On mailing lists with fast turnaround, a potential respondent who sees a thread about "Problem X" ending with "Problem X - FIXED" knows not to waste his/her time even reading the thread (unless (s)he personally finds Problem X interesting) and can therefore use that time solving a different problem.
 
 Your followup doesn't have to be long and involved; a simple "Howdy --- it was a failed network cable! Thanks, everyone. - Bill" would be better than nothing. In fact, a short and sweet summary is better than a long dissertation unless the solution has real technical depth. Say what action solved the problem, but you need not replay the whole troubleshooting sequence.
 
