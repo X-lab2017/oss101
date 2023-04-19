@@ -16,7 +16,7 @@ Copyright © 2001,2006,2014 Eric S. Raymond, Rick Moen
 
 ## Introduction
 
-In the world of [hackers](http://www.catb.org/~esr/faqs/hacker-howto.html), the kind of answers you get to your technical questions dpends as much on the way you ask the questions as on the difficulty of developing the answer. This guide will teach you how to ask questions in a way more likely to get you a satisfactory answer.
+In the world of [hackers](http://www.catb.org/~esr/faqs/hacker-howto.html), the kind of answers you get to your technical questions depends as much on the way you ask the questions as on the difficulty of developing the answer. This guide will teach you how to ask questions in a way more likely to get you a satisfactory answer.
 
 Now that use of open source has become widespread, you can often get as good answers from other, more experienced users as from hackers. This is a Good Thing; users tend to be just a little bit more tolerant of the kind of failures newbies often have. Still, treating experienced users like hackers in the ways we recommend here will generally be the most effective way to get useful answers out of them, too.
 
@@ -192,7 +192,7 @@ We've found by experience that people who are careless and sloppy writers are us
 
 So expressing your question clearly and well is important. If you can't be bothered to do that, we can't be bothered to pay attention. Spend the extra effort to polish your language. It doesn't have to be stiff or formal --- in fact, hacker culture values informal, slangy and humorous language used with precision. But it has to *be* precise; there has to be some indication that you're thinking and paying attention.
 
-Spell, punctuate, and capitalize correctly. Don't confuse "its" with "it's", "loose" with "lose", or "discrete" with "discreet". Don't TYPE IN ALL CAPS; thisis read as shouting and considered rude. (All-smalls is only slightly less annhoying, as it's difficult to read. Alan Cox can get away with it, but you can't.)
+Spell, punctuate, and capitalize correctly. Don't confuse "its" with "it's", "loose" with "lose", or "discrete" with "discreet". Don't TYPE IN ALL CAPS; thisis read as shouting and considered rude. (All-smalls is only slightly less annoying, as it's difficult to read. Alan Cox can get away with it, but you can't.)
 
 More generally, if you write like a semi-literate boob you will very likely be ignored. So don't use instant-messaging shortcuts. Spelling "you" as "u" makes you look like a semi-literate boob to save two entire keystrokes. Worse: writing like a l33t script kiddie hax0r is the absolute kiss of death and guarantaes you will receive nothing but stony silence (or, at best, a heaping helping of scorn and sarcasm) in return.
 
@@ -308,7 +308,7 @@ How do I get the color-picker on the FooDraw program to takea hexadecimal RGB va
 
 **Smart:**
 
-I'm trying to replace the color table on an imge with values of my choosing. Right now the only way I can see to do this is by editing each table slot, but I can't get FooDraw's color picker to take a hexadecimal RGB value.
+I'm trying to replace the color table on an image with values of my choosing. Right now the only way I can see to do this is by editing each table slot, but I can't get FooDraw's color picker to take a hexadecimal RGB value.
 
 The second version of the question is smart. It allows an answer that suggests a tool better suited to the task.
 
@@ -406,7 +406,7 @@ You shouldn't be offended by this; by hacker standards, your respndent is showin
 
 ### If you don't understand...
 
-If you don't understand the answer, do not immediately bounce back a demand for clarification. Use the same tools that you used to try and answer your original question (manuals, FAQs, the Web, skilled friends) to understand the answer. Than, if you still need to ask for clarrification, exhibit what you have learned.
+If you don't understand the answer, do not immediately bounce back a demand for clarification. Use the same tools that you used to try and answer your original question (manuals, FAQs, the Web, skilled friends) to understand the answer. Then, if you still need to ask for clarrification, exhibit what you have learned.
 
 For example, suppose I tell you: "It sounds like you've got a stuck zentry; you'll need to clear it." Then: here's a *bad* followup question: "What's a zentry?" Here's a *good* followup qustion: "OK, I read the man page and zentries are only mentioned under the -z and -p switches. Neither of them says anything about clearing zentries. Is it one of these or am I missing something here?"
 
