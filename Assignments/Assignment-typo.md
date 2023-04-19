@@ -22,7 +22,7 @@ Now that use of open source has become widespread, you can often get as good ans
 
 The first thing to understand is that hackers actually like hard problems and good, thought-provoking questions about them. If we didn't, we wouldn't be here. If you give us an interesting question to chew on we'll be grateful to you; good questions are a stimulus and a gift. Good questions help us develop our understanding, and often reveal problems we might not have noticed or thought about otherwise. Among hackers, "Good question!" is a strong and sincere compliment.
 
-Despite this, hackers have a reaputation for meeting simple questions with what looks like hostility or arrogance. It sometimes looks like we're reflexively rude to newbies and the ignorant. But this isn't really true.
+Despite this, hackers have a reputation for meeting simple questions with what looks like hostility or arrogance. It sometimes looks like we're reflexively rude to newbies and the ignorant. But this isn't really true.
 
 What we are, unapologetically, is hostile to people who seem to be unwilling to think or to do their own homework before asking questions. People like that are time sinks --- they take without giving back, and they waste time we could have spent on another question more interesting and another person more worthy of an answer. We call people like this "losers" (and for historical reasons we sometimes spell it "lusers").
 
@@ -170,7 +170,7 @@ X.org 6.8.1 mouse cursor on Fooware MV1005 vid. chipset - is misshapen
 
 The process of writing an "object-deviation" description will help you organize your thinking about the problem in more detail. What is affected? Just the mouse cursor or other graphics too? Is this specific to the X.org version of X? To version 6.8.1? Is this specific to Fooware video chipsets? To model MV1005? A hacker who sees the result can immediately understand what it is that you are having a problem with *and* the problem you are having, at a glance.
 
-More generally, imagine looking at the index of an archive of questions, with just the subject lines showing. Make your subject line reflect your question well enough that the next person searching the archive with a question simi lar to yours will be able to follow the thread to an answer rather than posting the question again.
+More generally, imagine looking at the index of an archive of questions, with just the subject lines showing. Make your subject line reflect your question well enough that the next person searching the archive with a question similar to yours will be able to follow the thread to an answer rather than posting the question again.
 
 If you ask a question in a reply, be sure to change the subject line to indicate that you're asking a question. A Subject line that looks like "Re: test" or "Re: new bug" is less likely to attract useful amounts of attention. Also, pare quotation of previous messages to the minimum consistent with cluing in new readers.
 
@@ -546,7 +546,7 @@ For popular software like Linux, there are at least 10,000 users per developer. 
 
 *Reply to a first offender off-line.* There is no need of public humiliationfor someone who may have made an honest mistake. A real newbie may not know how to search archives or where the FAQ is stored or posted.
 
-*If you don't know for sare, say so!* A wrong but authoritative-sounding answer is worse than none at all. Don't point anyone down a wrong path simply because it's fun to sound like an expert. Be humble and honest; set a good example for both the querent and your peers.
+*If you don't know for sure, say so!* A wrong but authoritative-sounding answer is worse than none at all. Don't point anyone down a wrong path simply because it's fun to sound like an expert. Be humble and honest; set a good example for both the querent and your peers.
 
 *If you can't help, don't hinder.* Don't make jokes about procedures that could trash the user's setup --- the poor sap might interpret these as instructions.
 
