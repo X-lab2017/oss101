@@ -220,7 +220,7 @@ If you make your question artificially hard to read, it is more likely to be pas
 
   - However, do *not* wrap data (such as log file dumps or session transcripts) at any fixed column width. Data should be included as-is, so respondents can have confidence that they are seeing what you saw.
 
-  - Don't send MIME Quoted-Printable encoding to an English-language forum. This encoding can be necessary when you're posting in a language ASCII doesn't cover, but many e-mail agents don't supportit. When they break, all those =20 glyphs scattered through the text are ugly and distracting --- or may actively sabotage the semantics of your text.
+  - Don't send MIME Quoted-Printable encoding to an English-language forum. This encoding can be necessary when you're posting in a language ASCII doesn't cover, but many e-mail agents don't support it. When they break, all those =20 glyphs scattered through the text are ugly and distracting --- or may actively sabotage the semantics of your text.
 
   - Never, *ever* expect hackers to be able to read closed proprietary document formats like Microsoft Word or Excel. Most hackers react to these about as well asyou would to having a pile of steaming pig manure dumped on your doorstep. Even when they can cope, they resent having to do so.
 
@@ -240,7 +240,7 @@ If you're using a graphical-user-interface mail client such as Netscape Messenge
 
   - Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
 
-  - Describe any possibly relevantrecent changes in your computer or software configuration.
+  - Describe any possibly relevant recent changes in your computer or software configuration.
 
   - If at all possible, provide a way to *reproduce the problem in a controlled environment*.
 
@@ -286,11 +286,11 @@ I'm getting back-to-back SIG11 errors on kernel compiles, and suspect a hairline
 
 My home-built K6/233 on an FIC-PA2007 motherboard (VIA Apollo VP2 chipset) with 256MB Corsair PC133 SDRAM starts getting frequent SIG11 errors about 20 minutes after power-on during the course of kernel compiles, but never in the first 20 minutes. Rebooting doesn't restart the clock, but powering down overnight does. Swapping out all RAM didn't help. The relevant part of a typical compile session log follows.
 
-Since the preceding point seems to be a tough one for many people to grasp, here's a phrase to remind you: "All diagnosticians are from Missouri." That US state's official motto is "Show me" (earned in 1899, when Congressman Willard D. Vandiver said "I come from a country that raises corn and cotton and cockleburs and Democrats, and frothy elaquence neither convinces nor satisfies me. I'm from Missouri. You've got to show me.") In diagnosticians' case, it's not a matter of skepticism, but rather a literal, functional need to see whatever is as close as possible to the same raw evidence that you see, rather than your surmises and summaries. Show us.
+Since the preceding point seems to be a tough one for many people to grasp, here's a phrase to remind you: "All diagnosticians are from Missouri." That US state's official motto is "Show me" (earned in 1899, when Congressman Willard D. Vandiver said "I come from a country that raises corn and cotton and cockleburs and Democrats, and frothy eloquence neither convinces nor satisfies me. I'm from Missouri. You've got to show me.") In diagnosticians' case, it's not a matter of skepticism, but rather a literal, functional need to see whatever is as close as possible to the same raw evidence that you see, rather than your surmises and summaries. Show us.
 
 ### Describe your problem's symptoms in chronological order
 
-The clues most useful in figguring out something that went wrong often lie in the events immediately prior. So, your account should describe precisely what you did, and what the machine and software did, leading up to the blowup. In the case of command-line processes, having a session log (e.g., using the script utility) and quoting the relevant twenty or so lines is very useful.
+The clues most useful in figuring out something that went wrong often lie in the events immediately prior. So, your account should describe precisely what you did, and what the machine and software did, leading up to the blowup. In the case of command-line processes, having a session log (e.g., using the script utility) and quoting the relevant twenty or so lines is very useful.
 
 If the program that blew up on you has diagnostic options (such as -v for verbose), try to select options that will add useful debugging information to the transcript. Remember that more is not necessarily better; try to choose a debug level that will inform rather than drowning the reader in junk.
 
