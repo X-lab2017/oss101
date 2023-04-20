@@ -246,7 +246,7 @@ If you're using a graphical-user-interface mail client such as Netscape Messenge
 
 Do the best you can to anticipate the questions a hacker will ask, and answer them in advance in your request for help.
 
-Giving hackers the ability to reproduce the problem in a controlled environment is espe cially important if you are reporting something you think is a bug in code. When you do this, your odds of getting a useful answer and the speed with which you are likely to get that answer both improve tremendously.
+Giving hackers the ability to reproduce the problem in a controlled environment is especially important if you are reporting something you think is a bug in code. When you do this, your odds of getting a useful answer and the speed with which you are likely to get that answer both improve tremendously.
 
 Simon Tatham has written an excellent essay entitled [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html). I strongly recommend that you read it.
 
@@ -254,7 +254,7 @@ Simon Tatham has written an excellent essay entitled [How to Report Bugs Effect
 
 You need to be precise and informative. This end is not served by simply dumpinghuge volumes of code or data into a help request. If you have a large, complicated test case that is breaking a program, try to trim it and make it as small as possible.
 
-This is useful for at least three reasons. One: being seen to invest effort in simplifying the question makes it more likely you'll get an answer, Two: simplifying the question makes it more likely you'll get a *useful* answer. Three: In the process of refining yourbug report, you may develop a fix or workaround yourself.
+This is useful for at least three reasons. One: being seen to invest effort in simplifying the question makes it more likely you'll get an answer, Two: simplifying the question makes it more likely you'll get a *useful* answer. Three: In the process of refining your bug report, you may develop a fix or workaround yourself.
 
 ### Don't rush to claim that you have found a bug
 
