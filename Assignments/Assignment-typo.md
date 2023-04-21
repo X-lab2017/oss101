@@ -252,7 +252,7 @@ Simon Tatham has written an excellent essay entitled [How to Report Bugs Effect
 
 ### Volume is not precision
 
-You need to be precise and informative. This end is not served by simply dumpinghuge volumes of code or data into a help request. If you have a large, complicated test case that is breaking a program, try to trim it and make it as small as possible.
+You need to be precise and informative. This end is not served by simply dumping huge volumes of code or data into a help request. If you have a large, complicated test case that is breaking a program, try to trim it and make it as small as possible.
 
 This is useful for at least three reasons. One: being seen to invest effort in simplifying the question makes it more likely you'll get an answer, Two: simplifying the question makes it more likely you'll get a *useful* answer. Three: In the process of refining your bug report, you may develop a fix or workaround yourself.
 
@@ -272,7 +272,7 @@ Some people who get that they shouldn't behave rudely or arrogantly, demanding a
 
 Don't waste your time, or ours, on crude primate politics. Instead, present the background facts and your question as clearly as you can. That is a better way to position yourself than by grovelling.
 
-Sometimes Web forums have sep arate places for newbie questions. If you feel you do have a newbie question, just go there. But don't grovel there either.
+Sometimes Web forums have separate places for newbie questions. If you feel you do have a newbie question, just go there. But don't grovel there either.
 
 ### Describe the problem's symptoms, not your guesses
 
