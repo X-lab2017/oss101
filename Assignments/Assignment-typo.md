@@ -194,7 +194,7 @@ So expressing your question clearly and well is important. If you can't be bothe
 
 Spell, punctuate, and capitalize correctly. Don't confuse "its" with "it's", "loose" with "lose", or "discrete" with "discreet". Don't TYPE IN ALL CAPS; thisis read as shouting and considered rude. (All-smalls is only slightly less annoying, as it's difficult to read. Alan Cox can get away with it, but you can't.)
 
-More generally, if you write like a semi-literate boob you will very likely be ignored. So don't use instant-messaging shortcuts. Spelling "you" as "u" makes you look like a semi-literate boob to save two entire keystrokes. Worse: writing like a l33t script kiddie hax0r is the absolute kiss of death and guarantaes you will receive nothing but stony silence (or, at best, a heaping helping of scorn and sarcasm) in return.
+More generally, if you write like a semi-literate boob you will very likely be ignored. So don't use instant-messaging shortcuts. Spelling "you" as "u" makes you look like a semi-literate boob to save two entire keystrokes. Worse: writing like a l33t script kiddie hax0r is the absolute kiss of death and guarantees you will receive nothing but stony silence (or, at best, a heaping helping of scorn and sarcasm) in return.
 
 If you are asking questions in a forum that does not use your native language, you will get a limited amount of slack for spelling and grammar errors --- but no extra slack at all for laziness (and yes, we can usually spot that difference). Also, unless you know what your respondent's languages are, write in English. Busy hackers tend to simply flush questions in languages they don't understand, and English is the working language of the Internet. By writing in English you minimize your chances that your question will be discarded unread.
 
@@ -220,7 +220,7 @@ If you make your question artificially hard to read, it is more likely to be pas
 
   - However, do *not* wrap data (such as log file dumps or session transcripts) at any fixed column width. Data should be included as-is, so respondents can have confidence that they are seeing what you saw.
 
-  - Don't send MIME Quoted-Printable encoding to an English-language forum. This encoding can be necessary when you're posting in a language ASCII doesn't cover, but many e-mail agents don't supportit. When they break, all those =20 glyphs scattered through the text are ugly and distracting --- or may actively sabotage the semantics of your text.
+  - Don't send MIME Quoted-Printable encoding to an English-language forum. This encoding can be necessary when you're posting in a language ASCII doesn't cover, but many e-mail agents don't support it. When they break, all those =20 glyphs scattered through the text are ugly and distracting --- or may actively sabotage the semantics of your text.
 
   - Never, *ever* expect hackers to be able to read closed proprietary document formats like Microsoft Word or Excel. Most hackers react to these about as well asyou would to having a pile of steaming pig manure dumped on your doorstep. Even when they can cope, they resent having to do so.
 
@@ -240,7 +240,7 @@ If you're using a graphical-user-interface mail client such as Netscape Messenge
 
   - Describe the diagnostic steps you took to try and pin down the problem yourself before you asked the question.
 
-  - Describe any possibly relevantrecent changes in your computer or software configuration.
+  - Describe any possibly relevant recent changes in your computer or software configuration.
 
   - If at all possible, provide a way to *reproduce the problem in a controlled environment*.
 
@@ -252,7 +252,7 @@ Simon Tatham has written an excellent essay entitled [How to Report Bugs Effect
 
 ### Volume is not precision
 
-You need to be precise and informative. This end is not served by simply dumpinghuge volumes of code or data into a help request. If you have a large, complicated test case that is breaking a program, try to trim it and make it as small as possible.
+You need to be precise and informative. This end is not served by simply dumping huge volumes of code or data into a help request. If you have a large, complicated test case that is breaking a program, try to trim it and make it as small as possible.
 
 This is useful for at least three reasons. One: being seen to invest effort in simplifying the question makes it more likely you'll get an answer, Two: simplifying the question makes it more likely you'll get a *useful* answer. Three: In the process of refining your bug report, you may develop a fix or workaround yourself.
 
@@ -272,7 +272,7 @@ Some people who get that they shouldn't behave rudely or arrogantly, demanding a
 
 Don't waste your time, or ours, on crude primate politics. Instead, present the background facts and your question as clearly as you can. That is a better way to position yourself than by grovelling.
 
-Sometimes Web forums have sep arate places for newbie questions. If you feel you do have a newbie question, just go there. But don't grovel there either.
+Sometimes Web forums have separate places for newbie questions. If you feel you do have a newbie question, just go there. But don't grovel there either.
 
 ### Describe the problem's symptoms, not your guesses
 
