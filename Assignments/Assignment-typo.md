@@ -436,7 +436,7 @@ Community standards do not maintain themselves: They're maintained by people act
 
 There have been hacker forums where, out of some misguided sense of hyper-courtesy, participants are banned from posting any fault-finding with another's posts, and told "Don't say anything if you're unwilling to help the user." The resulting departure of clueful participants to elsewhere causes them to descend into meaningless babble and become useless as technical forums.
 
-Exaggeratedly "friendly" (in that feshion) or useful: Pick one.
+Exaggeratedly "friendly" (in that fashion) or useful: Pick one.
 
 Remember: When that hacker tells you that you've screwed up, and (no matter how gruffly) tells you not to do it again, he's acting out of concern for (1) you and (2) his community. It would be much easier for him to ignore you and filter you out of his life. If you can't manage to be grateful, at least have a little dignity, don't whine, and don't expect to be treated like a fragile doll just because you're a newcomer with a theatrically hypersensitive soul and delusions of entitlement.
 
@@ -552,7 +552,7 @@ For popular software like Linux, there are at least 10,000 users per developer. 
 
 *Ask probing questions to elicit more details.* If you're good at this, the querent will learn something --- and so might you. Try to turn the bad question into a good one; remember we were all newbies once.
 
-While muttering RTFM is sometimes justified when rezplying to someone who is just a lazy slob, a pointer to documentation (even if it's just a suggestion to google for a key phrase) is better.
+While muttering RTFM is sometimes justified when replying to someone who is just a lazy slob, a pointer to documentation (even if it's just a suggestion to google for a key phrase) is better.
 
 *If you're going to answer the question at all, give good value.* Don't suggest kludgy workarounds when somebody is using the wrong tool or approach. Suggest good tools. Reframe the question.
 
