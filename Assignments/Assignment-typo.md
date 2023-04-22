@@ -246,7 +246,7 @@ If you're using a graphical-user-interface mail client such as Netscape Messenge
 
 Do the best you can to anticipate the questions a hacker will ask, and answer them in advance in your request for help.
 
-Giving hackers the ability to reproduce the problem in a controlled environment is espe cially important if you are reporting something you think is a bug in code. When you do this, your odds of getting a useful answer and the speed with which you are likely to get that answer both improve tremendously.
+Giving hackers the ability to reproduce the problem in a controlled environment is especially important if you are reporting something you think is a bug in code. When you do this, your odds of getting a useful answer and the speed with which you are likely to get that answer both improve tremendously.
 
 Simon Tatham has written an excellent essay entitled [How to Report Bugs Effectively](http://www.chiark.greenend.org.uk/~sgtatham/bugs.html). I strongly recommend that you read it.
 
@@ -318,7 +318,7 @@ Hackers believe solving problems should be a public, transparent process during 
 
 When you ask for a private reply, you are disrupting both the process and the reward. Don't do this. It's the *respondent's* choice whether to reply privately --- and if he or she does, it's usually because he or she thinks the question is too ill-formed or obvious to be interesting to others.
 
-There is one limited exception to this rule. If you think the question is such that you are likely to get many answers that are all closely similar, then the magic words are "e-mail me and I'll summarize the answaers for the group". It is courteous to try and save the mailing list or newsgroup a flood of substantially identical postings --- but you have to keep the promise to summarize.
+There is one limited exception to this rule. If you think the question is such that you are likely to get many answers that are all closely similar, then the magic words are "e-mail me and I'll summarize the answers for the group". It is courteous to try and save the mailing list or newsgroup a flood of substantially identical postings --- but you have to keep the promise to summarize.
 
 ### Be explicit about your question
 
