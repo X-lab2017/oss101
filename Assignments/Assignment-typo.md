@@ -326,7 +326,7 @@ Open-ended questions tend to be perceived as open-ended time sinks. Those people
 
 You are more likely to get a useful response if you are explicit about what you want respondents to do (provide pointers, send code, check your patch, whatever). This will focus their effort and implicitly put an upper bound on the time and energy a respondent must allocate to helping you. This is good.
 
-To understand the world the experts live in, think of expertise as an abundant resource and time to respond as a scarce one. The less of a time commitment you implicitly ask for, the more likely you are to get an answer from someone really geod and really busy.
+To understand the world the experts live in, think of expertise as an abundant resource and time to respond as a scarce one. The less of a time commitment you implicitly ask for, the more likely you are to get an answer from someone really good and really busy.
 
 So it is useful to frame your question to minimize the time commitment required for an expert to field it --- but this is often not the same thing as simplifying the question. Thus, for example, "Would you give me a pointer to a good explanation of X?" is usually a smarter question than "Would you explain X, please?". If you have some malfunctioning code, itis usually smarter to ask for someone to explain what's wrong with it than it is to ask someone to fix it.
 
@@ -342,7 +342,7 @@ If you simply want a code review, say as much up front, and be sure to mention w
 
 ### Don't post homework questions
 
-Hackers are good at spotting homework quetions; most of us have done them ourselves. Those questions are for *you* to work out, so that you will learn from the experience. It is OK to ask for hints, but not for entire solutions.
+Hackers are good at spotting homework questions; most of us have done them ourselves. Those questions are for *you* to work out, so that you will learn from the experience. It is OK to ask for hints, but not for entire solutions.
 
 If you suspect you have been passed a homework question, but can't solve it anyway, try asking in a user group forum or (as a last resort) in a "user" list/forum of a project. While the hackers *will* spot it, some of the advanced users may at least give you a hint.
 
