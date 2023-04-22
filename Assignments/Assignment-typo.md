@@ -356,7 +356,7 @@ In general, asking yes-or-no questions is a good thing to avoid unless you want 
 
 That's your problem, not ours. Claiming urgency is very likely to be counter-productive: most hackers will simply delete such messages as rude and selfish attempts to elicit immediate and special attention. Furthermore, the word 'Urgent' (and other similar attempts to grab attention in the subject line) often triggers spam filters - your intended recipients might never see it at all!
 
-There is one semi-exception. It can be worth mentioning if you're using the program in some high-profile place, one tht the hackers will get excited about; in such a case, if you're under time pressure, and you say so politely, people may get interested enough to answer faster.
+There is one semi-exception. It can be worth mentioning if you're using the program in some high-profile place, one that the hackers will get excited about; in such a case, if you're under time pressure, and you say so politely, people may get interested enough to answer faster.
 
 This is a very risky thing to do, however, because the hackers' metric for what is exciting probably differs from yours. Posting from the International Space Station would qualify, for example, but posting on behalf of a feel-good charitable or political cause would almost certainly not. In fact, posting "Urgent: Help me save the fuzzy baby seals!" will reli ably get you shunned or flamed even by hackers who think fuzzy baby seals are important.
 
@@ -544,7 +544,7 @@ For popular software like Linux, there are at least 10,000 users per developer. 
 
 *Be gentle.* Problem-related stress can make people seem rude or stupid even when they're not.
 
-*Reply to a first offender off-line.* There is no need of public humiliationfor someone who may have made an honest mistake. A real newbie may not know how to search archives or where the FAQ is stored or posted.
+*Reply to a first offender off-line.* There is no need of public humiliation for someone who may have made an honest mistake. A real newbie may not know how to search archives or where the FAQ is stored or posted.
 
 *If you don't know for sure, say so!* A wrong but authoritative-sounding answer is worse than none at all. Don't point anyone down a wrong path simply because it's fun to sound like an expert. Be humble and honest; set a good example for both the querent and your peers.
 
@@ -560,7 +560,7 @@ Answer the actual question! If the queraent has been so thorough as to do his or
 
 *Help your community learn from the question.* When you field a good question, ask yourself "How would the relevant documentation or FAQ have to change so that nobody has to answer this again?" Then send a patch to the document maintainer.
 
-If you did research to answer the question, *demonstrate your skills rather then writing as though you pulled the answer out of your butt.* Answering one good question is like feeding a hungry person one meal, but teaching them research skills by example is showing them how to grow food for a lifetime.
+If you did research to answer the question, *demonstrate your skills rather than writing as though you pulled the answer out of your butt.* Answering one good question is like feeding a hungry person one meal, but teaching them research skills by example is showing them how to grow food for a lifetime.
 
 ## Related Resources
 
