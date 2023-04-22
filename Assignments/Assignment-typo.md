@@ -114,7 +114,7 @@ Stack Exchange has grown to [over 100 sites](http://stackexchange.com/sites), b
 
 - Super User is for questions about general-purpose computing. If your question isn't about code or programs that you talk to only over a network connection, it probably goes here.
 
-  - Stack Overflow is for ques tions about programming.
+  - Stack Overflow is for questions about programming.
 
   - Server Fault is for questions about server and network administration.
 
@@ -254,7 +254,7 @@ Simon Tatham has written an excellent essay entitled [How to Report Bugs Effect
 
 You need to be precise and informative. This end is not served by simply dumpinghuge volumes of code or data into a help request. If you have a large, complicated test case that is breaking a program, try to trim it and make it as small as possible.
 
-This is useful for at least three reasons. One: being seen to invest effort in simplifying the question makes it more likely you'll get an answer, Two: simplifying the question makes it more likely you'll get a *useful* answer. Three: In the process of refining yourbug report, you may develop a fix or workaround yourself.
+This is useful for at least three reasons. One: being seen to invest effort in simplifying the question makes it more likely you'll get an answer, Two: simplifying the question makes it more likely you'll get a *useful* answer. Three: In the process of refining your bug report, you may develop a fix or workaround yourself.
 
 ### Don't rush to claim that you have found a bug
 
@@ -444,7 +444,7 @@ Sometimes people will attack you personally, flame without an apparent reason, e
 
 These flamers are either lamers who don't have a clue but believe themselves to be experts, or would-be psychologists tsting whether you'll screw up. The other readers either ignore them, or find ways to deal with them on their own. The flamers' behavior creates problems for themselves, which don't have to concern you.
 
-Don't let yourself be drawn into a flamewar, either. Most flames are best ignored --- after you've checked whe ther they are really flames, not pointers to the ways in which you have screwed up, and not cleverly ciphered answers to your real question (this happens as well).
+Don't let yourself be drawn into a flamewar, either. Most flames are best ignored --- after you've checked whether they are really flames, not pointers to the ways in which you have screwed up, and not cleverly ciphered answers to your real question (this happens as well).
 
 ## Questions Not To Ask
 
