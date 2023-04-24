@@ -402,7 +402,7 @@ In Web forums, you may also be told to search the forum archives. In fact, someo
 
 Often, the person telling you to do a search has the manual or the web page with the information you need open, and is looking at it as he or she types. These replies mean that the responder thinks (a) the information you need is easy to find, and (b) you will learn more if you seek out the information than if you have it spoon-fed to you.
 
-You shouldn't be offended by this; by hacker standards, your respendent is showing you a rough kind of respect simply by not ignoring you. You should instead be thankful for this grandmotherly kindness.
+You shouldn't be offended by this; by hacker standards, your respondent is showing you a rough kind of respect simply by not ignoring you. You should instead be thankful for this grandmotherly kindness.
 
 ### If you don't understand...
 
