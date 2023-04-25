@@ -222,7 +222,7 @@ If you make your question artificially hard to read, it is more likely to be pas
 
   - Don't send MIME Quoted-Printable encoding to an English-language forum. This encoding can be necessary when you're posting in a language ASCII doesn't cover, but many e-mail agents don't support it. When they break, all those =20 glyphs scattered through the text are ugly and distracting --- or may actively sabotage the semantics of your text.
 
-  - Never, *ever* expect hackers to be able to read closed proprietary document formats like Microsoft Word or Excel. Most hackers react to these about as well asyou would to having a pile of steaming pig manure dumped on your doorstep. Even when they can cope, they resent having to do so.
+  - Never, *ever* expect hackers to be able to read closed proprietary document formats like Microsoft Word or Excel. Most hackers react to these about as well as you would to having a pile of steaming pig manure dumped on your doorstep. Even when they can cope, they resent having to do so.
 
   - If you're sending e-mail from a Windows machine, turn off Microsoft's problematic "Smart Quotes" feature (From Tools > AutoCorrect Options, clear the smart quotes checkbox under AutoFormat As You Type.). This is so you'll avoid sprinkling garbage characters through your mail.
 
