@@ -328,7 +328,7 @@ You are more likely to get a useful response if you are explicit about what you 
 
 To understand the world the experts live in, think of expertise as an abundant resource and time to respond as a scarce one. The less of a time commitment you implicitly ask for, the more likely you are to get an answer from someone really good and really busy.
 
-So it is useful to frame your question to minimize the time commitment required for an expert to field it --- but this is often not the same thing as simplifying the question. Thus, for example, "Would you give me a pointer to a good explanation of X?" is usually a smarter question than "Would you explain X, please?". If you have some malfunctioning code, itis usually smarter to ask for someone to explain what's wrong with it than it is to ask someone to fix it.
+So it is useful to frame your question to minimize the time commitment required for an expert to field it --- but this is often not the same thing as simplifying the question. Thus, for example, "Would you give me a pointer to a good explanation of X?" is usually a smarter question than "Would you explain X, please?". If you have some malfunctioning code, it is usually smarter to ask for someone to explain what's wrong with it than it is to ask someone to fix it.
 
 ### When asking about code
 
