@@ -6,12 +6,11 @@ jobs:
   reaction:
     runs-on: ubuntu-latest
     if: |
-      ${{ contains(fromJson('
-        [ 
-          "tieway59",
+      contains(fromJson('
+        [
+          "tc2000731",
           "will-ww",
-        ]
-      '), github.event.sender.login) }}
+        ]'), github.event.sender.login)
     steps:
       - name: Add reaction
         run: |
