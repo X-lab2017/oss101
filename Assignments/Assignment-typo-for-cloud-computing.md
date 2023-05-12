@@ -74,7 +74,7 @@ On the other hand, making it clear that you are able and willing to help in the 
 
 ### Choose your forum carefully
 
-Be sensitive in choosing where you ask your question. You are likely to be ignwored, or written off as a loser, if you:
+Be sensitive in choosing where you ask your question. You are likely to be ignored, or written off as a loser, if you:
 
 - post your question to a forum where it's off topic
 
@@ -84,7 +84,7 @@ Be sensitive in choosing where you ask your question. You are likely to be ignwo
 
   - post a personal e-mail to somebody who is neither an acquaintance of yours nor personally responsible for solving your problem
 
-Hackers blow off questions that are inappropriately targeted in order to try to protect their communications channelsfrom being drowned in irrelevance. You don't want this to happen to you.
+Hackers blow off questions that are inappropriately targeted in order to try to protect their communications channels from being drowned in irrelevance. You don't want this to happen to you.
 
 The first step, therefore, is to find the right forum. Again, Google and other Web-searching methods are your friend. Use them to find the project webpage most closely associated with the hardware or software giving you difficulties. Usually it will have links to a FAQ (Frequently Asked Questions) list, and to project mailing lists and their archives. These mai ling lists are the final places to go for help, if your own efforts (including *reading* those FAQs you found) do not find you a solution. The project page may also describe a bug-reporting procedure, or have a link to one; if so, follow it.
 
