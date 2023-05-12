@@ -570,4 +570,4 @@ When you release software or write patches for software, try to follow the guide
 
 ## Acknowledgements
 
-Evelyn Mitchell coptributed some example stupid questions and inspired the "How To Give A Good Answer" section. Mikhail Ramendik contributed some particularly valuable suggestions for improvements.
+Evelyn Mitchell contributed some example stupid questions and inspired the "How To Give A Good Answer" section. Mikhail Ramendik contributed some particularly valuable suggestions for improvements.
