@@ -210,7 +210,7 @@ If you are writing in English but it is a second language for you, it is good fo
 
 ### Send questions in accessible, standard formats
 
-If you make your question artificially hard to read, it is more likely to be paseed over in favor of one that isn't. So:
+If you make your question artificially hard to read, it is more likely to be passed over in favor of one that isn't. So:
 
 - Send plain text mail, not HTML. (It's not hard to [turn off HTML](http://www.birdhouse.org/etc/evilmail.html).)
 
