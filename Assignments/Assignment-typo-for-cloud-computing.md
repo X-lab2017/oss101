@@ -152,7 +152,7 @@ If you cannot find a project's mailing list address, but only see the address of
 
 ### Use meaningful, specific subject headers
 
-On mailing lists, newsgroups or Web forums, thde subject header is your golden opportunity to attract qualified experts' attention in around 50 characters or fewer. Don't waste it on babble like "Please help me" (let alone "PLEASE HELP ME!!!!"; messages with subjects like that get discarded by reflex). Don't try to impress us with the depth of your anguish; use the space for a super-concise problem description instead.
+On mailing lists, newsgroups or Web forums, the subject header is your golden opportunity to attract qualified experts' attention in around 50 characters or fewer. Don't waste it on babble like "Please help me" (let alone "PLEASE HELP ME!!!!"; messages with subjects like that get discarded by reflex). Don't try to impress us with the depth of your anguish; use the space for a super-concise problem description instead.
 
 One good convention for subject headers, used by many tech support organizations, is "object - deviation". The "object" part specifies what thing or group of things is having a problem, and the "deviation" part describes the deviation from expected behavior.
 
