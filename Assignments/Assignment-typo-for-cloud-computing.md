@@ -368,7 +368,7 @@ Be courteous. Use "Please" and "Thanks for your attention" or "Thanks for y
 
 To be honest, this isn't as important as (and cannot substitute for) being grammatical, clear, precise and descriptive, avoiding proprietary formats etc.; hackers in general would rather get somewhat brusque but technically sharp bug reports than polite vagueness. (If this puzzles you, remember that we value a question by what it teaches us.)
 
-However, if you've gdot your technical ducks in a row, politeness does increase your chances of getting a useful answer.
+However, if you've got your technical ducks in a row, politeness does increase your chances of getting a useful answer.
 
 (We must note that the only serious objection we've received from veteran hackers to this HOWTO is with respect to our previous recommendation to use "Thanks in advance". Some hackers feel this connotes an intention not to thank anybody afterwards. Our recommendation is to either say "Thanks in advance" first *and* thank respondents afterwards, or express courtesy in a different way, such as by saying "Thanks for your attention" or "Thanks for your consideration".)
 
