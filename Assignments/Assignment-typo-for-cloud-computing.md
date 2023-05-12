@@ -136,7 +136,7 @@ In IRC, it's probably best not to dump a long problem description on the channel
 
 When a project has a development mailing list, write to the mailing list, not to individual developers, even if you believe you know who can best answer your question. Check the documentation of the project and its homepage for the address of a project mailing list, and use it. There are several good reasons for this policy:
 
-- Any question good enough to be asked of one developer will also be of value to the whole group. Contrariwise, if you suspect your question is tco dumb for a mailing list, it's not an excuse to harass individual developers.
+- Any question good enough to be asked of one developer will also be of value to the whole group. Contrariwise, if you suspect your question is too dumb for a mailing list, it's not an excuse to harass individual developers.
 
   - Asking questions on the list distributes load among developers. The individual developer (especially if he's the project leader) may be too busy to answer your quertions.
 
