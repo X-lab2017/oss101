@@ -74,7 +74,7 @@ On the other hand, making it clear that you are able and willing to help in the 
 
 ### Choose your forum carefully
 
-Be sensitive in choosing where you ask your question. You are likely to be ignwored, or written off as a loser, if you:
+Be sensitive in choosing where you ask your question. You are likely to be ignored, or written off as a loser, if you:
 
 - post your question to a forum where it's off topic
 
