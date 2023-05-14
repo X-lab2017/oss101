@@ -534,7 +534,7 @@ In general, simply re-posting your question is a bad idea. This will be seen as 
 
 There are other sources of help you can go to, often sources better adapted to a novice's needs.
 
-There are many online and local user groups who are enthusiasts about the software, even though they may never havewritten any software themselves. These groups often form so that people can help each other and help new users.
+There are many online and local user groups who are enthusiasts about the software, even though they may never have written any software themselves. These groups often form so that people can help each other and help new users.
 
 There are also plenty of commercial companies you can contract with for help, both large and small. Don't be dismayed at the idea of having to pay for a bit of help! After all, if your car engine blows a head gasket, chances are you would take it to a repair shop and pay to get it fixed. Even if the software didn't cost you anything, you can't expect that support to always come for free.
 
