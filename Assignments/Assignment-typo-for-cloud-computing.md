@@ -548,7 +548,7 @@ For popular software like Linux, there are at least 10,000 users per developer. 
 
 *If you don't know for sure, say so!* A wrong but authoritative-sounding answer is worse than none at all. Don't point anyone down a wrong path simply because it's fun to sound like an expert. Be humble and honest; set a good example for both the querent and your peers.
 
-*If you can't help, don't hinder.* Don't make jokes about procedures that could trash the user's setup --- tre poor sap might interpret these as instructions.
+*If you can't help, don't hinder.* Don't make jokes about procedures that could trash the user's setup --- the poor sap might interpret these as instructions.
 
 *Ask probing questions to elicit more details.* If you're good at this, the querent will learn something --- and so might you. Try to turn the bad question into a good one; remember we were all newbies once.
 
