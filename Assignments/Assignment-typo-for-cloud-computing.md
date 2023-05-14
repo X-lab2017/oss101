@@ -490,7 +490,7 @@ Q: [How can I crack root/steal channel-ops privileges/read someone's e-mail?](h
 
 ## Good and Bad Questions
 
-Finally, I'm going to illuetrate how to ask questions in a smart way by example; pairs of questions about the same problem, one asked in a stupid way and one in a smart way.
+Finally, I'm going to illustrate how to ask questions in a smart way by example; pairs of questions about the same problem, one asked in a stupid way and one in a smart way.
 
 **Stupid:** Where can I find out stuff about the Foonly Flurbamatic?
 
