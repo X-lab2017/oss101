@@ -140,7 +140,7 @@ When a project has a development mailing list, write to the mailing list, not to
 
   - Asking questions on the list distributes load among developers. The individual developer (especially if he's the project leader) may be too busy to answer your quertions.
 
-  - Most mailing lists are archived and the archives are indexed by search engines. If you ask your question on-list and it is answered, a future querent could find your question andthe answer on the Web instead of asking it again.
+  - Most mailing lists are archived and the archives are indexed by search engines. If you ask your question on-list and it is answered, a future querent could find your question and the answer on the Web instead of asking it again.
 
   - If certain questions are seen to be asked often, developers can use that information to improve the documentation or the software itself to be less confusing. But if those questions are asked in private, nobody has the complete picture of what questions are asked most often.
 
