@@ -348,7 +348,7 @@ If you suspect you have been passed a homework question, but can't solve it anyw
 
 ### Prune pointless queries
 
-Resist the temptation to close your request for help with semantically-null questions like "Can anyone help me?" or "Is there ananswer?" First: if you've written your problem description halfway competently, such tacked-on questions are at best superfluous. Second: because they are superfluous, hackers find them annoying --- and are likely to return logically impeccable but dismissive answers like "Yes, you can be helped" and "No, there is no help for you."
+Resist the temptation to close your request for help with semantically-null questions like "Can anyone help me?" or "Is there an answer?" First: if you've written your problem description halfway competently, such tacked-on questions are at best superfluous. Second: because they are superfluous, hackers find them annoying --- and are likely to return logically impeccable but dismissive answers like "Yes, you can be helped" and "No, there is no help for you."
 
 In general, asking yes-or-no questions is a good thing to avoid unless you want a [yes-or-no answer](http://homepage.ntlworld.com./jonathan.deboynepollard/FGA/questions-with-yes-or-no-answers.html).
 
