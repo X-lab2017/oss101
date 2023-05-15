@@ -10,7 +10,6 @@ jobs:
         [
           "tc2000731",
           "will-ww",
-          "wujwyi"
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
