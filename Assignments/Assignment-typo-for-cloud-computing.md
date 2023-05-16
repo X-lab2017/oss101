@@ -276,7 +276,7 @@ Sometimes Web forums have separate places for newbie questions. If you feel you 
 
 ### Describe the problem's symptoms, not your guesses
 
-It's not useful to tell hackers what you think is causing your problem. (If your diagnostic theories were such hot stuff, would you be conslting others for help?) So, make sure you're telling them the raw symptoms of what goes wrong, rather than your interpretations and theories. Let them do the interpretation and diagnosis. If you feel it's important to state your guess, clearly label it as such and describe why that answer isn't working for you.
+It's not useful to tell hackers what you think is causing your problem. (If your diagnostic theories were such hot stuff, would you be consulting others for help?) So, make sure you're telling them the raw symptoms of what goes wrong, rather than your interpretations and theories. Let them do the interpretation and diagnosis. If you feel it's important to state your guess, clearly label it as such and describe why that answer isn't working for you.
 
 **Stupid:**
 
