@@ -268,7 +268,7 @@ When asking your question, it is best to write as though you assume *you* are 
 
 ### Grovelling is not a substitute for doing your homework
 
-Some people who get that they shouldn't behave rdely or arrogantly, demanding an answer, retreat to the opposite extreme of grovelling. "I know I'm just a pathetic newbie loser, but...". This is distracting and unhelpful. It's especially annoying when it's coupled with vagueness about the actual problem.
+Some people who get that they shouldn't behave rudely or arrogantly, demanding an answer, retreat to the opposite extreme of grovelling. "I know I'm just a pathetic newbie loser, but...". This is distracting and unhelpful. It's especially annoying when it's coupled with vagueness about the actual problem.
 
 Don't waste your time, or ours, on crude primate politics. Instead, present the background facts and your question as clearly as you can. That is a better way to position yourself than by grovelling.
 
