@@ -11,6 +11,7 @@ jobs:
           "tc2000731",
           "will-ww",
           "xwyzsn",
+          "DarkHighness",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
