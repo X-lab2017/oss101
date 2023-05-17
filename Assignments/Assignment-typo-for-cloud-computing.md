@@ -228,7 +228,7 @@ If you make your question artificially hard to read, it is more likely to be pas
 
   - In Web forums, do not abuse "smiley" and "HTML" features (when they are present). A smiley or two is usually OK, but colored fancy text tends to make people think you are lame. Seriously overusing smileys and color and fonts will make you come off like a giggly teenage girl, which is not generally a good idea unless you are more interested in sex than answers.
 
-If you're using a graphical-user-interface mail client such as Netscape Messenger, MS Outlook, or their ilk, beware that it may violate these rules when used with its default settings. Most such clients have a menu-bastd "View Source" command. Use this on something in your sent-mail folder, verifying sending of plain text without unnecessary attached crud.
+If you're using a graphical-user-interface mail client such as Netscape Messenger, MS Outlook, or their ilk, beware that it may violate these rules when used with its default settings. Most such clients have a menu-based "View Source" command. Use this on something in your sent-mail folder, verifying sending of plain text without unnecessary attached crud.
 
 ### Be precise and informative about your problem
 
@@ -242,7 +242,7 @@ If you're using a graphical-user-interface mail client such as Netscape Messenge
 
   - Describe any possibly relevant recent changes in your computer or software configuration.
 
-  - If at all possdible, provide a way to *reproduce the problem in a controlled environment*.
+  - If at all possible, provide a way to *reproduce the problem in a controlled environment*.
 
 Do the best you can to anticipate the questions a hacker will ask, and answer them in advance in your request for help.
 
