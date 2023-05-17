@@ -86,7 +86,7 @@ Be sensitive in choosing where you ask your question. You are likely to be ignor
 
 Hackers blow off questions that are inappropriately targeted in order to try to protect their communications channels from being drowned in irrelevance. You don't want this to happen to you.
 
-The first step, therefore, is to find the right forum. Again, Google and other Web-searching methods are your friend. Use them to find the project webpage most closely associated with the hardware or software giving you difficulties. Usually it will have links to a FAQ (Frequently Asked Questions) list, and to project mailing lists and their archives. These mailing lists are the final places to go for help, if your own efforts (including *reading* those FAQs you found) do not find you a solution. The project page may also describe a bug-reporting procedure, or have a link to one; if so, follow it.
+The first step, therefore, is to find the right forum. Again, Google and other Web-searching methods are your friends. Use them to find the project webpage most closely associated with the hardware or software giving you difficulties. Usually it will have links to a FAQ (Frequently Asked Questions) list, and to project mailing lists and their archives. These mailing lists are the final places to go for help, if your own efforts (including *reading* those FAQs you found) do not find you a solution. The project page may also describe a bug-reporting procedure, or have a link to one; if so, follow it.
 
 Shooting off an e-mail to a person or forum which you are not familiar with is risky at best. For example, do not assume that the author of an informative webpage wants to be your free consultant. Do not make optimistic guesses about whether your question will be welcome --- if you're unsure, send it elsewhere, or refrain from sending it at all.
 
@@ -122,7 +122,7 @@ Several projects have their own specific sites, including Android, Ubuntu, TeX/L
 
 ### Web and IRC forums
 
-Your local user group, or your Linux distribution, may advertise a Web forum or IRC channel where newbies can get help. (In non-English-speaking countries newsbie forums are still more likely to be mailing lists.) These are good first places to ask, especially if you think you may have tripped over a relatively simple or common problem. An advertised IRC channel is an open invitation to ask questions there and often get answers in real time.
+Your local user group, or your Linux distribution, may advertise a Web forum or IRC channel where newbies can get help. (In non-English-speaking countries newbie forums are still more likely to be mailing lists.) These are good first places to ask, especially if you think you may have tripped over a relatively simple or common problem. An advertised IRC channel is an open invitation to ask questions there and often get answers in real time.
 
 In fact, if you got the program that is giving you problems from a Linux distribution (as is common today), it may be better to ask in the distro's forum/list before trying the program's project forum/list. The project's hackers may just say, "use *our* build".
 
@@ -268,7 +268,7 @@ When asking your question, it is best to write as though you assume *you* are 
 
 ### Grovelling is not a substitute for doing your homework
 
-Some people who get that they shouldn't behave rdely or arrogantly, demanding an answer, retreat to the opposite extreme of grovelling. "I know I'm just a pathetic newbie loser, but...". This is distracting and unhelpful. It's especially annoying when it's coupled with vagueness about the actual problem.
+Some people who get that they shouldn't behave rudely or arrogantly, demanding an answer, retreat to the opposite extreme of grovelling. "I know I'm just a pathetic newbie loser, but...". This is distracting and unhelpful. It's especially annoying when it's coupled with vagueness about the actual problem.
 
 Don't waste your time, or ours, on crude primate politics. Instead, present the background facts and your question as clearly as you can. That is a better way to position yourself than by grovelling.
 
@@ -276,7 +276,7 @@ Sometimes Web forums have separate places for newbie questions. If you feel you 
 
 ### Describe the problem's symptoms, not your guesses
 
-It's not useful to tell hackers what you think is causing your problem. (If your diagnostic theories were such hot stuff, would you be conslting others for help?) So, make sure you're telling them the raw symptoms of what goes wrong, rather than your interpretations and theories. Let them do the interpretation and diagnosis. If you feel it's important to state your guess, clearly label it as such and describe why that answer isn't working for you.
+It's not useful to tell hackers what you think is causing your problem. (If your diagnostic theories were such hot stuff, would you be consulting others for help?) So, make sure you're telling them the raw symptoms of what goes wrong, rather than your interpretations and theories. Let them do the interpretation and diagnosis. If you feel it's important to state your guess, clearly label it as such and describe why that answer isn't working for you.
 
 **Stupid:**
 
@@ -398,7 +398,7 @@ There is an ancient and hallowed tradition: if you get a reply that reads "RTFM
 
 RTFM has a younger relative. If you get a reply that reads "STFW", the person who sent it thinks you should have Searched The Fucking Web. He or she is almost certainly right. Go search it. (The milder version of this is when you are told "Google is your friend!")
 
-In Web forums, you may also be told to search the forum archives. In fact, someone may even be so kind as to provide a pointer to the prsevious thread where this problem was solved. But do not rely on this consideration; do your archive-searching before asking.
+In Web forums, you may also be told to search the forum archives. In fact, someone may even be so kind as to provide a pointer to the previous thread where this problem was solved. But do not rely on this consideration; do your archive-searching before asking.
 
 Often, the person telling you to do a search has the manual or the web page with the information you need open, and is looking at it as he or she types. These replies mean that the responder thinks (a) the information you need is easy to find, and (b) you will learn more if you seek out the information than if you have it spoon-fed to you.
 
