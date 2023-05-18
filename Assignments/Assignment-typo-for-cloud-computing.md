@@ -318,7 +318,7 @@ Hackers believe solving problems should be a public, transparent process during 
 
 When you ask for a private reply, you are disrupting both the process and the reward. Don't do this. It's the *respondent's* choice whether to reply privately --- and if he or she does, it's usually because he or she thinks the question is too ill-formed or obvious to be interesting to others.
 
-There is one limited exception to this rule. If you think the question is such that you are likely to get many answers that are all closely similar, then the magic wrds are "e-mail me and I'll summarize the answers for the group". It is courteous to try and save the mailing list or newsgroup a flood of substantially identical postings --- but you have to keep the promise to summarize.
+There is one limited exception to this rule. If you think the question is such that you are likely to get many answers that are all closely similar, then the magic words are "e-mail me and I'll summarize the answers for the group". It is courteous to try and save the mailing list or newsgroup a flood of substantially identical postings --- but you have to keep the promise to summarize.
 
 ### Be explicit about your question
 
