@@ -14,6 +14,7 @@ jobs:
           "DarkHighness",
           "abcdabcd3899",
           "zzyzeyuan",
+          "heroding77",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
