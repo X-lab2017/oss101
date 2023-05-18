@@ -426,7 +426,7 @@ In the next section, we'll talk about a different issue; the kind of "rudeness"
 
 ## On Not Reacting Like A Loser
 
-Odds are you'll screw up a few times on hcker community forums --- in ways detailed in this article, or similar. And you'll be told exactly how you screwed up, possibly with colourful asides. In public.
+Odds are you'll screw up a few times on hacker community forums --- in ways detailed in this article, or similar. And you'll be told exactly how you screwed up, possibly with colourful asides. In public.
 
 When this happens, the worst thing you can do is whine about the experience, claim to have been verbally assaulted, demand apologies, scream, hold your breath, threaten lawsuits, complain to people's employers, leave the toilet seat up, etc. Instead, here's what you do:
 
