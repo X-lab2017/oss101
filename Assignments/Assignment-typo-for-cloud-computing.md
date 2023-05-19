@@ -178,7 +178,7 @@ Do not simply hit reply to a list message in order to start an entirely new thre
 
 Changing the subject is not sufficient. Mutt, and probably other mail readers, looks at other information in the e-mail's headers to assign it to a thread, not the subject line. Instead start an entirely new e-mail.
 
-On Web forums the rules of good practice are slightly different, because messages are usually much more tightly bo und to specific discussion threads and often invisible outside those threads. Changing the subject when asking a question in reply is not essential. Not all forums even allow separate subject lines on replies, and nearly nobody reads them when they do. However, asking a question in a reply is a dubious practice in itself, because it will only be seen by those who are watching this thread. So, unless you are sure you *want* to ask only the people currently active in the thread, start a new one.
+On Web forums the rules of good practice are slightly different, because messages are usually much more tightly bound to specific discussion threads and often invisible outside those threads. Changing the subject when asking a question in reply is not essential. Not all forums even allow separate subject lines on replies, and nearly nobody reads them when they do. However, asking a question in a reply is a dubious practice in itself, because it will only be seen by those who are watching this thread. So, unless you are sure you *want* to ask only the people currently active in the thread, start a new one.
 
 ### Make it easy to reply
 
