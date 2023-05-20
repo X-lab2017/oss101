@@ -298,7 +298,7 @@ If your account ends up being long (more than about four paragraphs), it might b
 
 ### Describe the goal, not the step
 
-If you are trying to find out how to do something (as opposed to reporting a bug), begin by describing the goal. Only then describe the particular step towards it that you are blocked on.
+If you are trying to find out how to do something (as oppsed to reporting a bug), begin by describing the goal. Only then describe the particular step towards it that you are blocked on.
 
 Often, people who need technical help have a high-level goal in mind and get stuck on what they think is one particular path towards the goal. They come for help with the step, but don't realize that the path is wrong. It can take substantial effort to get past this.
 
