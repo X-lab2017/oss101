@@ -94,7 +94,7 @@ When selecting a Web forum, newsgroup or mailing list, don't trust the name by i
 
 Don't shotgun-blast all the available help channels at once, that's like yelling and irritates people. Step through them softly.
 
-Know what your topic is! One of the classic mistakes is asking questions about the Unqx or Windows programming interface in a forum devoted to a language or library or tool portable across both. If you don't understand why this is a blunder, you'd be best off not asking any questions at all until you get it.
+Know what your topic is! One of the classic mistakes is asking questions about the Unix or Windows programming interface in a forum devoted to a language or library or tool portable across both. If you don't understand why this is a blunder, you'd be best off not asking any questions at all until you get it.
 
 In general, questions to a well-selected public forum are more likely to get useful answers than equivalent questions to a private one. There are multiple reasons for this. One is simply the size of the pool of potential respondents. Another is the size of the audience; hackers would rather answer questions that educate many people than questions serving only a few.
 
