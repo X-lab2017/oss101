@@ -74,7 +74,7 @@ On the other hand, making it clear that you are able and willing to help in the 
 
 ### Choose your forum carefully
 
-Be sensitive in choosing where you ask your question. You are likely to be ignwored, or written off as a loser, if you:
+Be sensitive in choosing where you ask your question. You are likely to be ignored, or written off as a loser, if you:
 
 - post your question to a forum where it's off topic
 
@@ -94,7 +94,7 @@ When selecting a Web forum, newsgroup or mailing list, don't trust the name by i
 
 Don't shotgun-blast all the available help channels at once, that's like yelling and irritates people. Step through them softly.
 
-Know what your topic is! One of the classic mistakes is asking questions about the Unqx or Windows programming interface in a forum devoted to a language or library or tool portable across both. If you don't understand why this is a blunder, you'd be best off not asking any questions at all until you get it.
+Know what your topic is! One of the classic mistakes is asking questions about the Unix or Windows programming interface in a forum devoted to a language or library or tool portable across both. If you don't understand why this is a blunder, you'd be best off not asking any questions at all until you get it.
 
 In general, questions to a well-selected public forum are more likely to get useful answers than equivalent questions to a private one. There are multiple reasons for this. One is simply the size of the pool of potential respondents. Another is the size of the audience; hackers would rather answer questions that educate many people than questions serving only a few.
 
@@ -228,7 +228,7 @@ If you make your question artificially hard to read, it is more likely to be pas
 
   - In Web forums, do not abuse "smiley" and "HTML" features (when they are present). A smiley or two is usually OK, but colored fancy text tends to make people think you are lame. Seriously overusing smileys and color and fonts will make you come off like a giggly teenage girl, which is not generally a good idea unless you are more interested in sex than answers.
 
-If you're using a graphical-user-interface mail client such as Netscape Messenger, MS Outlook, or their ilk, beware that it may violate these rules when used with its default settings. Most such clients have a menu-bastd "View Source" command. Use this on something in your sent-mail folder, verifying sending of plain text without unnecessary attached crud.
+If you're using a graphical-user-interface mail client such as Netscape Messenger, MS Outlook, or their ilk, beware that it may violate these rules when used with its default settings. Most such clients have a menu-based "View Source" command. Use this on something in your sent-mail folder, verifying sending of plain text without unnecessary attached crud.
 
 ### Be precise and informative about your problem
 
@@ -328,7 +328,7 @@ You are more likely to get a useful response if you are explicit about what you 
 
 To understand the world the experts live in, think of expertise as an abundant resource and time to respond as a scarce one. The less of a time commitment you implicitly ask for, the more likely you are to get an answer from someone really good and really busy.
 
-So it is useful to frame your question to minimize the time commitment required for an expert to field it --- but this is often not the same thing as simplifying the question. Thus, for example, "Would you give me a pointer to a good explanation of X?" is usually a smarter question than "Would you explain X, please?". If you have some malfunctioning co de, it is usually smarter to ask for someone to explain what's wrong with it than it is to ask someone to fix it.
+So it is useful to frame your question to minimize the time commitment required for an expert to field it --- but this is often not the same thing as simplifying the question. Thus, for example, "Would you give me a pointer to a good explanation of X?" is usually a smarter question than "Would you explain X, please?". If you have some malfunctioning code, it is usually smarter to ask for someone to explain what's wrong with it than it is to ask someone to fix it.
 
 ### When asking about code
 
