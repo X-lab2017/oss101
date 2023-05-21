@@ -242,7 +242,7 @@ If you're using a graphical-user-interface mail client such as Netscape Messenge
 
   - Describe any possibly relevant recent changes in your computer or software configuration.
 
-  - If at all possdible, provide a way to *reproduce the problem in a controlled environment*.
+  - If at all possible, provide a way to *reproduce the problem in a controlled environment*.
 
 Do the best you can to anticipate the questions a hacker will ask, and answer them in advance in your request for help.
 
