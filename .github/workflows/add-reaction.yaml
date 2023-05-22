@@ -16,6 +16,7 @@ jobs:
           "zzyzeyuan",
           "heroding77",
           "GiveMeAnApple99",
+          "andyhuang18",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
