@@ -15,6 +15,7 @@ jobs:
           "abcdabcd3899",
           "zzyzeyuan",
           "heroding77",
+          "GiveMeAnApple99",
           "yz2022",
         ]'), github.event.sender.login)
     steps:
