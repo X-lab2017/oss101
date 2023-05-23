@@ -16,6 +16,9 @@ jobs:
           "zzyzeyuan",
           "heroding77",
           "GiveMeAnApple99",
+          "Goinggoinggoing",
+          "qqliang",
+          "tennnx",
           "RTEnzyme",
         ]'), github.event.sender.login)
     steps:
