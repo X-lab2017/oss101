@@ -92,7 +92,7 @@ Shooting off an e-mail to a person or forum which you are not familiar with is r
 
 When selecting a Web forum, newsgroup or mailing list, don't trust the name by itself too far; look for a FAQ or charter to verify your question is on-topic. Read some of the back traffic before posting so you'll get a feel for how things are done there. In fact, it's a very good idea to do a keyword search for words relating to your problem on the newsgroup or mailing list archives before you post. It may find you an answer, and if not it will help you formulate a better question.
 
-Don't shotgun-blast all the available help channels at once, that's like yelling and irritates people. Step through them softly.
+Don't shotgun-blast all the available help channels at once, that's like yelling and irritating people. Step through them softly.
 
 Know what your topic is! One of the classic mistakes is asking questions about the Unix or Windows programming interface in a forum devoted to a language or library or tool portable across both. If you don't understand why this is a blunder, you'd be best off not asking any questions at all until you get it.
 
