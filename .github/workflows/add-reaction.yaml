@@ -10,12 +10,17 @@ jobs:
         [
           "tc2000731",
           "will-ww",
+          "zhouchenyi2000",
           "xwyzsn",
           "DarkHighness",
           "abcdabcd3899",
           "zzyzeyuan",
-          "heroding77",
+          "heroding77",       
+          "GiveMeAnApple99",
+          "Goinggoinggoing",
           "Zzzzzhuzhiwei",
+          "qqliang",
+          "tennnx",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
