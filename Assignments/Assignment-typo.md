@@ -86,7 +86,7 @@ Be sensitive in choosing where you ask your question. You are likely to be ignor
 
 Hackers blow off questions that are inappropriately targeted in order to try to protect their communications channels from being drowned in irrelevance. You don't want this to happen to you.
 
-The first step, therefore, is to find the right forum. Again, Google and other Web-searching methods are your friend. Use them to find the project webpage most closely associated with the hardware or software giving you difficulties. Usually it will have links to a FAQ (Frequently Asked Questions) list, and to project mailing lists and their archives. These mailing lists are the final places to go for help, if your own efforts (including *reading* those FAQs you found) do not find you a solution. The project page may also describe a bug-reporting procedure, or have a link to one; if so, follow it.
+The first step, therefore, is to find the right forum. Again, Google and other Web-searching methods are your friends. Use them to find the project webpage most closely associated with the hardware or software giving you difficulties. Usually it will have links to a FAQ (Frequently Asked Questions) list, and to project mailing lists and their archives. These mailing lists are the final places to go for help, if your own efforts (including *reading* those FAQs you found) do not find you a solution. The project page may also describe a bug-reporting procedure, or have a link to one; if so, follow it.
 
 Shooting off an e-mail to a person or forum which you are not familiar with is risky at best. For example, do not assume that the author of an informative webpage wants to be your free consultant. Do not make optimistic guesses about whether your question will be welcome --- if you're unsure, send it elsewhere, or refrain from sending it at all.
 
@@ -148,7 +148,7 @@ If a project has both a "user" and a "developer" (or "hacker") mailing list
 
 However, if you are *sure* your question is non-trivial, and you get no answer in the "user" list/forum for several days, try the "developer" one. You would be well advised to lurk there for a few days or at least review the last few days of archived messages, to learn the local folkways before posting (actually this is good advice on any private or semi-private list).
 
-If you cannot find a project's mailing list address, but only see the address of the maintainer of the project, go ahead and write to the maintainer. But even in that case, don't assume that the mailing list doesn't exist. Mention inyour e-mail that you tried and could not find the appropriate mailing list. Also mention that you don't object to having your message forwarded to other people. (Many people believe that private e-mail should remain private, even if there is nothing secret in it. By allowing your message to be forwarded you give your correspondent a choice about how to handle your e-mail.)
+If you cannot find a project's mailing list address, but only see the address of the maintainer of the project, go ahead and write to the maintainer. But even in that case, don't assume that the mailing list doesn't exist. Mention in your e-mail that you tried and could not find the appropriate mailing list. Also mention that you don't object to having your message forwarded to other people. (Many people believe that private e-mail should remain private, even if there is nothing secret in it. By allowing your message to be forwarded you give your correspondent a choice about how to handle your e-mail.)
 
 ### Use meaningful, specific subject headers
 
@@ -374,7 +374,7 @@ However, if you've got your technical ducks in a row, politeness does increase y
 
 ### Follow up with a brief note on the solution
 
-Send a note after the problem has been solved to all who helped you; let them know how it came out and thank them again for their help. If the problem attracted general interest in a mailing list or newsgroup, it's appropriate to post the followup there.
+Send a note after the problem has been solved to all who helped you; let them know how it came out and thank them again for their help. If the problem attracted general interest in a mailing list or newsgroup, it's appropriate to post the follow-up there.
 
 Optimally, the reply should be to the thread started by the original question posting, and should have 'FIXED', 'RESOLVED' or an equally obvious tag in the subject line. On mailing lists with fast turnaround, a potential respondent who sees a thread about "Problem X" ending with "Problem X - FIXED" knows not to waste his/her time even reading the thread (unless (s)he personally finds Problem X interesting) and can therefore use that time solving a different problem.
 
