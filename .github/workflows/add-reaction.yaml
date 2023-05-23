@@ -20,6 +20,7 @@ jobs:
           "Goinggoinggoing",
           "qqliang",
           "tennnx",
+          "lroethan",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
