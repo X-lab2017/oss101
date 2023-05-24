@@ -10,6 +10,7 @@ jobs:
         [
           "tc2000731",
           "will-ww",
+          "zhouchenyi2000",
           "xwyzsn",
           "DarkHighness",
           "abcdabcd3899",
@@ -18,8 +19,10 @@ jobs:
           "GiveMeAnApple99",
           "Goinggoinggoing",
           "qqliang",
-          "tennnx",
           "RTEnzyme",
+          "tennnx",
+          "momentNi",
+          "wengsy150943",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
