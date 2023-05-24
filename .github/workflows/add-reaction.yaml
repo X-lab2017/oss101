@@ -19,9 +19,11 @@ jobs:
           "GiveMeAnApple99",
           "Goinggoinggoing",
           "qqliang",
+          "RTEnzyme",
           "tennnx",
           "momentNi",
           "wengsy150943",
+          "xiaofeichong123",
           "Ashura5",
         ]'), github.event.sender.login)
     steps:
