@@ -22,6 +22,7 @@ jobs:
           "tennnx",
           "momentNi",
           "wengsy150943",
+          "xiaofeichong123",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
