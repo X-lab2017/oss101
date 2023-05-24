@@ -24,6 +24,7 @@ jobs:
           "momentNi",
           "wengsy150943",
           "xiaofeichong123",
+          "JinaoLiu",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
