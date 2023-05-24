@@ -27,6 +27,7 @@ jobs:
           "tennnx",
           "momentNi",
           "wengsy150943",
+<<<<<<< HEAD
           "xiaofeichong123",
           "Zzzzzhuzhiwei",
           "JinaoLiu",
@@ -39,6 +40,8 @@ jobs:
           "wujwyi",
           "LinRS1999",
           "qkgoalkeeper",
+=======
+>>>>>>> f07a77a (ci: add `Ashura5` to reaction list)
           "Ashura5",
         ]'), github.event.sender.login)
     steps:
