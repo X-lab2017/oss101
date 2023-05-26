@@ -40,7 +40,7 @@ If you decide to come to us for help, you don't want to be one of the losers. Yo
 
 ## Before You Ask
 
-Before asking a technical question by e-mail, or in a newsgroup, or on a website chat board, do the following:
+Before asking a technical question by e-mail, in a newsgroup, or on a website chat board, do the following:
 
     1.  Try to find an answer by searching the archives of the forum or mailing list you plan to post to.
 
@@ -98,7 +98,7 @@ Know what your topic is! One of the classic mistakes is asking questions about t
 
 In general, questions to a well-selected public forum are more likely to get useful answers than equivalent questions to a private one. There are multiple reasons for this. One is simply the size of the pool of potential respondents. Another is the size of the audience; hackers would rather answer questions that educate many people than questions serving only a few.
 
-Understandably, skilled hackers and authors of popular software are already receiving more than their fair share of mis-targeted messages. By adding to the flood, you could in extreme cases even be the straw that breaks the camel's back --- quite a few times, contributors to popular projects have withdrawn their support because collateral damage in the form of useless e-mail traffic to their personal accounts became unbearable.
+Understandably, skilled hackers and authors of popular software are already receiving more than their fair share of mistargeted messages. By adding to the flood, you could in extreme cases even be the straw that breaks the camel's back --- quite a few times, contributors to popular projects have withdrawn their support because collateral damage in the form of useless e-mail traffic to their personal accounts became unbearable.
 
 ### Stack Overflow
 
@@ -106,7 +106,7 @@ Search, *then* ask on Stack Exchange
 
 In recent years, the Stack Exchange community of sites has emerged as a major resource for answering technical and other questions and is even the preferred forum for many open-source projects.
 
-Start with a Google search before looking at Stack Exchange; Google indexes it in real time. There's a very good chance someone has already asked a similar question, and the Stack Exchange sites are often near the top of the search results. If you didn't find anything through Google, search again on the specific site most relevant to your question (see below). Searching with tags can help narrow down the results.
+Start with a Google search before looking at Stack Exchange; Google indexes it in real-time. There's a very good chance someone has already asked a similar question, and the Stack Exchange sites are often near the top of the search results. If you didn't find anything through Google, search again on the specific site most relevant to your question (see below). Searching with tags can help narrow down the results.
 
 If you still didn't find anything, post your question on the *one* site where it's most on-topic. Use the formatting tools, especially for code, and add tags that are related to the substance of your question (particularly the name of the programming language, operating system, or library you're having trouble with). If a commenter asks you for more information, edit your main post to include it. If any answer is helpful, click the up arrow to upvote it; if an answer gives a solution to your problem, click the check under the voting arrows to accept it as correct.
 
