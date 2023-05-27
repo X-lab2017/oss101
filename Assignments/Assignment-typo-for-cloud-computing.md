@@ -336,7 +336,7 @@ Don't ask others to debug your broken code without giving a hint what sort of pr
 
 The most effective way to be precise about a code problem is to provide a minimal bug-demonstrating test case. What's a minimal test case? It's an illustration of the problem; just enough code to exhibit the undesirable behavior and no more. How do you make a minimal test case? If you know what line or section of code is producing the problematic behavior, make a copy of it and add just enough supporting code to produce a complete example (i.e. enough that the source is acceptable to the compiler/interpreter/whatever application processes it). If you can't narrow it down to a particular section, make a copy of the source and start removing chunks that don't affect the problematic behavior. The smaller your minimal test case is, the better (see [the section called "Volume is not precision"](http://www.catb.org/~esr/faqs/smart-questions.html#volume "Volume is not precision")).
 
-Generating a really small minimal test case will not always be possible, but trying to is good discipline. It may help you learn what you need to solve the problem on yo ur own --- and even when it doesn't, hackers like to see that you have tried. It will make them more cooperative.
+Generating a really small minimal test case will not always be possible, but trying to is good discipline. It may help you learn what you need to solve the problem on your own --- and even when it doesn't, hackers like to see that you have tried. It will make them more cooperative.
 
 If you simply want a code review, say as much up front, and be sure to mention what areas you think might particularly need review and why.
 
