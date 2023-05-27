@@ -138,7 +138,7 @@ When a project has a development mailing list, write to the mailing list, not to
 
 - Any question good enough to be asked of one developer will also be of value to the whole group. Contrariwise, if you suspect your question is too dumb for a mailing list, it's not an excuse to harass individual developers.
 
-  - Asking questions on the list distributes load among developers. The individual developer (especially if he's the project leader) may be too busy to answer your quertions.
+  - Asking questions on the list distributes load among developers. The individual developer (especially if he's the project leader) may be too busy to answer your questions.
 
   - Most mailing lists are archived and the archives are indexed by search engines. If you ask your question on-list and it is answered, a future querent could find your question and the answer on the Web instead of asking it again.
 
