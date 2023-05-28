@@ -28,6 +28,7 @@ jobs:
           "JinaoLiu",
           "yz2022",
           "Freejww",
+          "bensonzxs"
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
