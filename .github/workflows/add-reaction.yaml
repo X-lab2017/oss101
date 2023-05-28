@@ -31,6 +31,7 @@ jobs:
           "Freejww",
           "nicole01101101zke",
           "yygs-yyss",
+          "Kongbaimoon",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
