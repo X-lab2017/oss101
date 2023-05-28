@@ -29,6 +29,7 @@ jobs:
           "yz2022",
           "Freejww",
           "nicole01101101zke",
+          "yygs-yyss",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
