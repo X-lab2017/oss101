@@ -35,6 +35,7 @@ jobs:
           "yygs-yyss",
           "Liuyushiii",
           "Tamiflu233",
+          "wujwyi",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
