@@ -40,6 +40,7 @@ jobs:
           "LinRS1999",
           "qkgoalkeeper",
           "Ashura5",
+          "lroethan",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
