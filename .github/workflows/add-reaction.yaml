@@ -43,6 +43,7 @@ jobs:
           "lroethan",
           "pourquoi-1130",
           "hzhang4433",
+          "hsy77",
         ]'), github.event.sender.login)
     steps:
       - name: Add reaction
